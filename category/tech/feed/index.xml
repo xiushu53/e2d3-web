@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tech Blog | E2D3</title>
+	<atom:link href="http://localhost/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Data Visualization for All</description>
+	<lastBuildDate>Sun, 17 Feb 2019 06:36:39 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>NTT Tech Conference #2への参加について</title>
+		<link>/2018/01/02/exhibit-at-ntt-tech-conference-2/</link>
+		
+		<dc:creator><![CDATA[Junichi Watanuki]]></dc:creator>
+		<pubDate>Tue, 02 Jan 2018 06:01:45 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Tech Blog]]></category>
+		<category><![CDATA[oss]]></category>
+		<guid isPermaLink="false">/?p=18848</guid>
+
+					<description><![CDATA[<p>2017年8月10日、田町グランパークプラザで開催された「NTT Tech Conference」にて、E2D3のデモ(ハンズオン)及びカンファレンス(E2D3の開発で気づいたOSSの効用)講演に参加してまいりました。 &#8230;</p>
+<p>The post <a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/">NTT Tech Conference #2への参加について</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">2017年8月10日、田町グランパークプラザで開催された「NTT Tech Conference」にて、E2D3のデモ(ハンズオン)及びカンファレンス(</span><a class="jump" target="#table-entry7">E2D3の開発で気づいたOSSの効用</a><span class="s1">)講演に参加してまいりました。<br />
+デモ展示コーナーでは、E2D3のデモムービーの上映および、何でも可視化相談室として相談を受け付けることで、多数の来場者の方々にデータビジュアライゼーションについて情報共有を行うことが出来ました。（当日発表した資料を下記に掲載します）</span></p>
+<p><iframe loading="lazy" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/nxoOmgpfp5lMPR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div style="margin-bottom: 5px;"><strong> <a title="E2D3の開発で気づいたOSSの効用" href="//www.slideshare.net/junichiwatanuki/e2d3oss" target="_blank" rel="noopener">E2D3の開発で気づいたOSSの効用</a> </strong> from <strong><a href="https://www.slideshare.net/junichiwatanuki" target="_blank" rel="noopener">Junichi Watanuki</a></strong></div>
+<p>___ English ____</p>
+<p>Exhibit at NTT Tech Conference # 2</p>
+<p class="p1">On 10th August 2017, we have participated in the demonstration (hands-on) of E2D3 and the lecture (the utility of OSS noticed in the development of E2D3) to &#8220;NTT Tech Conference&#8221; held at Tamachi Gran Park Plaza.<br />
+At the demonstration exhibition corner, we were able to share information on data visualization to a large number of visitors by screening the demonstration movie of E2D3 and receiving consultation as a visualization counseling room for anything. (The materials announced on the day will be posted below)</p>
+<p><iframe loading="lazy" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/nxoOmgpfp5lMPR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div style="margin-bottom: 5px;"><strong> <a title="E2D3の開発で気づいたOSSの効用" href="//www.slideshare.net/junichiwatanuki/e2d3oss" target="_blank" rel="noopener">E2D3の開発で気づいたOSSの効用</a> </strong> from <strong><a href="https://www.slideshare.net/junichiwatanuki" target="_blank" rel="noopener">Junichi Watanuki</a></strong></div><p>The post <a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/">NTT Tech Conference #2への参加について</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました</title>
+		<link>/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/</link>
+		
+		<dc:creator><![CDATA[yupa884]]></dc:creator>
+		<pubDate>Tue, 15 Aug 2017 16:02:03 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Report]]></category>
+		<category><![CDATA[Tech Blog]]></category>
+		<category><![CDATA[cytospace]]></category>
+		<category><![CDATA[dataviz]]></category>
+		<category><![CDATA[e2d3]]></category>
+		<guid isPermaLink="false">/?p=18804</guid>
+
+					<description><![CDATA[<p>2017年7月8日（土）、TECHPLAY SHIBUYA（旧dots.）をお借りして、E2D3もくもく会と講演会を開催しました。 カリフォルニア大学サンディエゴ校医学部に所属するエンジニアであり、オープンソースのネット&#8230;</p>
+<p>The post <a href="/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/">【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">2017年7月8日（土）、TECHPLAY SHIBUYA（旧dots.）をお借りして、E2D3もくもく会と講演会を開催しました。</span></p>
+<p class="p1"><span class="s1">カリフォルニア大学サンディエゴ校医学部に所属するエンジニアであり、オープンソースのネットワーク可視化ソフトウェアCytoscapeのコア開発者である大野圭一郎さんをお招きして、『「モダンな」可視化アプリケーションとはどのようなものか？』と題した講演をしていただきました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-18673" src="/wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2.png" alt="" width="1644" height="1644" srcset="/wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2.png 1644w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-150x150.png 150w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-300x300.png 300w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-768x768.png 768w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-1024x1024.png 1024w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-250x250.png 250w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-174x174.png 174w" sizes="(max-width: 1644px) 100vw, 1644px" /></p>
+<hr />
+<p class="p1"><span class="s1">メインの講演は17:00からの予定でしたが、機材不調で参加者LT大会を先に実施。</span><span class="s1">今回は総勢8名の方がLTをしてくださいました。発表者リストは以下の通り。</span><span class="s1">参加者LTの振り返りは、メイン講演サマリーの後に続きます。</span></p>
+<ol>
+<li class="p1"><a href="https://www.slideshare.net/KaitoKinjo1/vuejsmapbox-77611093">Vue.jsとmapboxを利用した位置情報可視化アプリケーション開発</a> by Kaito Kinjo</li>
+<li class="p1"><span class="s1">データビジュアライゼーションから考える「料理とは何か？」 by 出雲翔</span></li>
+<li class="p1">日用消費財の営業戦略運営で期待されるデータ可視化 by 篠原剛</li>
+<li class="p1"><span class="s1"> <a href="https://www.slideshare.net/junichiwatanuki/e2d3-77654180">E2D3の品質管理について</a> by Junichi Watanuki</span></li>
+<li class="p1"><span class="s1">データの可視化とチームの進化 by 吉田 雅史</span></li>
+<li class="p1"><span class="s1">スポーツデータビジュアライゼーション〜東京五輪に向けて〜 by 多田哲馬</span></li>
+<li class="p1"><span class="s1"> D3.js バッドノウハウ集 by 清水正行</span></li>
+<li class="p1"><span class="s1">Grimoire.jsとデータビジュアライゼーション by 城山賢人</span></li>
+</ol>
+<hr />
+<p class="p1"><span class="s1">内容が濃く多岐にわたるLTで脳も身体も限界まで達したところで、メイン講演が始まりました。</span></p>
+<p class="p1"><span class="s1">スピーカーの大野圭一郎さんは、カリフォルニア大学サンディエゴ校医学部に所属するエンジニアで、オープンソースのネットワーク可視化ソフトウェアCytoscapeを開発された方です。Cytoscapeを使うと、遺伝子ネットワーク、ソーシャルネットワークが可視化できます。このソフトウェアを使って、塩基配列、たんぱく質、遺伝子の機能などのデータを統合・解析・可視化し、主に基礎医学研究者に対してデータを提供されています。研究者へのインタビュー、論文執筆、学会発表、ワークショッップの講師など様々な業務をされています。</span></p>
+<p class="p1"><span class="s1">最近では、①階層化された遺伝子群の可視化、②技術の古くなったアプリケーションの拡張、③良い技術を使いまわせるようにすること、をしていらっしゃいます。遺伝子オントロジーを機械的に生成するDeep Cell（仮）を新しいPJとして着手しています。</span></p>
+<p class="p1"><span class="s1">本日は、複雑なデータセットを可視化するアプリケーションのデザイン手法や実際の設計についてお話し頂きます。</span></p>
+<hr />
+<h2><span style="font-size: 14pt;"><span class="s1">【モダンなデータ可視化アプリケーション開発とは？】</span></span></h2>
+<p class="p1"><span class="s1">テーマの一部でもある「モダンなデータ可視化アプリケーション開発とは？」という問いに答える前に、まず大野さんから質問。次のうちで現在使っているツールはありますか？</span></p>
+<ul>
+<li class="p1"><span class="s1">D3.js ver.4</span></li>
+<li class="p1"><span class="s1">react</span></li>
+<li class="p1"><span class="s1">BABEL</span></li>
+<li class="p1"><span class="s1">webpack</span></li>
+<li class="p1"><span class="s1">npm</span></li>
+</ul>
+<p><span class="s1">大野さんはモダンを定義するにあたって、使用技術、開発スタイル、設計という三つの観点を挙げていらっしゃいました。使用技術が古くても開発スタイル（GitHub利用）や設計（データモデル、レンダリングレイヤーの分離）が新しいもの（Cytospaceが良い例）があることがわかりました。</span></p>
+<p class="p1"><span class="s1">モダンなデータ可視化アプリケーションの一つの定義として、以下の5点が挙げられます。</span></p>
+<ul>
+<li class="p1"><span class="s1">モジュール化されている</span></li>
+<li class="p1"><span class="s1">よく知られた可視化のパターンや原則を利用している</span></li>
+<li class="p1"><span class="s1">アプリケーションの基本設計として、データとUIの設計が構造化されている</span></li>
+<li class="p1"><span class="s1">データの管理に一定のルールを持つ</span></li>
+<li class="p1"><span class="s1">テスト可能</span></li>
+</ul>
+<p class="p1"><span class="s1">モダンであることは、特定の最新の技術を使うことではなく、アプリケーションの構造デザインと使用するテクノロジーの組み合わせが実現するものなのではないかと、大野さんはおっしゃっています。</span></p>
+<p class="p1"><span class="s1">とはいえ、無駄な労力を使わないツールを選ぶことも能力の一つ。モダンなデータ可視化アプリケーションの開発をする上で必要なツールについて、「現時点での」と条件を付けた上で、大野さんは以下のようにご教示くださいました。</span></p>
+<ul>
+<li class="p1"><span class="s1">言語：　ES2015以降</span></li>
+<li class="p1"><span class="s1">パッケージマネージャー：　npm</span></li>
+<li class="p1"><span class="s1">ビルドツール：　webpack3</span></li>
+<li class="p1"><span class="s1">コンポーネント化：　React</span></li>
+<li class="p1"><span class="s1">可視化：　D3.js, 好みのレンダリング技術</span></li>
+</ul>
+<p class="p1"><span class="s1">これらが組み合わされば、①トランスパイル、ミニファイ、テストなどの自動化、②モジュール化とそれに伴う再利用性の向上、③コンポーネントベースでの可視化機能設計が出来ます。少し前に、<a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">「フロントエンド界隈が複雑化しすぎ問題」</a>がありましたが、最低限、npm（依存管理）、webpack（ビルドとタスク実行）、BABEL（互換性のための変換）があれば良く、基本的なツールの提供機能にそれほど変化はないのではないかとまとめています。</span></p>
+<hr />
+<h2><span class="s1" style="font-size: 14pt;">【複雑なデータセットを可視化するアプリケーションのデザイン方法】</span></h2>
+<p class="p1"><span class="s1">使用するテクノロジーには大きな制限やルールがないことがわかりましたが、アプリケーションの構造デザインはどのように形作れば良いのでしょうか。</span></p>
+<p class="p1"><span class="s1"><a href="http://vis.berkeley.edu/papers/infovis_design_patterns/">データの示し方</a>には、①シンプルなチャート（棒グラフ円グラフ）、②scrollytelling（複数のデータセットを用いてストーリーを構成）、③data dashboard（複数のデータセットを複数の手法で可視化）、④ライブラリ（汎用性を高めて他者が再利用できるように設計してあるコンポーネント）があります。</span></p>
+<p class="p1"><span class="s1">示し方に応じて必要となるフレームワークは変わってきます。使用するデータと最適な見せ方を明確にした上で、それに応じたフレームワークを選ぶことが重要だと大野さんは言います。</span></p>
+<p class="p1"><span class="s1">ここで、ダッシュボードの全てをツリーで構成した実際の構造デザイン例を見せていただきました。</span></p>
+<p class="p1"><span class="s1">実際に使ったデータは、大規模な遺伝子ネットワーク、それらを統計解析し生成したオントロジー、遺伝子アノテーションです。すなわち、階層構造、グラフ（ネットワーク）、テーブルデータを互いに関連するものとして可視化し、ユーザーの選択に基づいて複数のビューを連動させていくということを行います。</span></p>
+<ol style="list-style-type: upper-alpha;">
+<li class="p1"><span class="s1">まず、可視化に必要となる要素をコンポーネントのツリーとして書き出します。</span></li>
+<li class="p1"><span class="s1">次に、そのコンポーネントを作るために必要なデータモデルを考えます。</span></li>
+<li class="p1"><span class="s1">最後に、可視化アプリケーションを実現するために必要なバックエンドをツリーで構成します。</span></li>
+</ol>
+<p class="p1"><span class="s1">これらのステップは全てツリーで行われました。可視化アプリケーションを実現するにあたり、表示されるものや求められている見え方を整理するためにツリーは重要なツールとなります。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-18813" src="/wp-content/uploads/2017/08/DENJ9e5VwAAqV9i.jpg" alt="" width="2048" height="1536" srcset="/wp-content/uploads/2017/08/DENJ9e5VwAAqV9i.jpg 2048w, /wp-content/uploads/2017/08/DENJ9e5VwAAqV9i-300x225.jpg 300w, /wp-content/uploads/2017/08/DENJ9e5VwAAqV9i-768x576.jpg 768w, /wp-content/uploads/2017/08/DENJ9e5VwAAqV9i-1024x768.jpg 1024w, /wp-content/uploads/2017/08/DENJ9e5VwAAqV9i-285x214.jpg 285w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<hr />
+<h2 class="p1"><span class="s1" style="font-size: 14pt;">【実際の設計と実装：React + D3を例に】</span></h2>
+<p class="p1"><span class="s1">実装の際に大野さんは、主にReactとD3.jsを使っているそうです。Reactは小さめのフレームワークで且つコンポーネント化することを意識した設計になっています。D3.js、特にversion4は大規模アップデートがされており、可視化のための標準ライブラリとなってきています。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-18814" src="/wp-content/uploads/2017/08/DENN2RZUwAERCoE.jpg" alt="" width="2048" height="1536" srcset="/wp-content/uploads/2017/08/DENN2RZUwAERCoE.jpg 2048w, /wp-content/uploads/2017/08/DENN2RZUwAERCoE-300x225.jpg 300w, /wp-content/uploads/2017/08/DENN2RZUwAERCoE-768x576.jpg 768w, /wp-content/uploads/2017/08/DENN2RZUwAERCoE-1024x768.jpg 1024w, /wp-content/uploads/2017/08/DENN2RZUwAERCoE-285x214.jpg 285w" sizes="(max-width: 2048px) 100vw, 2048px" /></p>
+<p class="p1"><span class="s1">この二つにそれぞれ役割分担をさせ、組み合わせてつかうことでデータ可視化アプリケーションが実装できます。Reactには仮想DOMの管理をさせ、D3.jsは数学用ライブラリとして使います。描画をReactに任せてほぼReactのみで実装する方法もあれば、その逆もあります。実装者の技量、アプリケーションのサイズ、取り扱いデータの大きさなどによってどちらの方法をとるか変わってきます。</span></p>
+<p class="p1"><span class="s1">かっこつけずに、目的を達成するために必要なものはなにか、一番の近道はなにかを考える必要があります。必要に応じて、バックエンドで処理するようなコードを書いたり、PythonやRの方が得意そうな処理であればそれらでコードを書いた上で呼び出せば良いのです。全てをフロントエンドで処理する必要はありません。</span><span class="s1">バックはDockerで、フロントはnpmで、パッケージしていけばシンプルにいつでも再利用可能です。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-18817" src="/wp-content/uploads/2017/08/DENRo7uU0AAbXHD.jpg" alt="" width="1200" height="900" srcset="/wp-content/uploads/2017/08/DENRo7uU0AAbXHD.jpg 1200w, /wp-content/uploads/2017/08/DENRo7uU0AAbXHD-300x225.jpg 300w, /wp-content/uploads/2017/08/DENRo7uU0AAbXHD-768x576.jpg 768w, /wp-content/uploads/2017/08/DENRo7uU0AAbXHD-1024x768.jpg 1024w, /wp-content/uploads/2017/08/DENRo7uU0AAbXHD-285x214.jpg 285w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<hr />
+<p class="p1"><span class="s1">大野さんのお話は、極めて実践的な大学の講義のようでした。</span><span class="s1">参考文献として、<a href="http://shop.oreilly.com/product/0636920049579.do">Learning React</a>をあげていただきました。</span></p>
+<p class="p1"><span class="s1">今回の講演で、「モダンな」可視化アプリケーション開発について、以下のことがわかりました。</span></p>
+<ul style="list-style-type: disc;">
+<li class="p1"><span class="s1">メンテナンス可能な構造である</span></li>
+<li class="p1"><span class="s1">特定のテクノロジーに縛られすぎていない</span></li>
+<li class="p1"><span class="s1">React+D3.jsの組み合わせが開発のための現時点での最適と考えられる選択肢である</span></li>
+</ul>
+<p><span class="s1">大野さん、参加された皆さん、お疲れさまでした！</span></p>
+<hr />
+<p>質疑応答の時間もたっぷりとりました。一部をご紹介します。</p>
+<p class="p1"><span class="s1">Q. バックエンドはシンプルに、とのことでしたが大量のデータを処理するためのデータストアは必要だと思いますが、よく使われるミドルウェア、あるいはサービスはありますか？</span></p>
+<p class="p1"><span class="s1">A. Elastic Search 等</span></p>
+<p class="p1"><span class="s1">Q. 新しい技術の導入の判断基準は？日本だと声の大きい人の意見がそのまま通ってしまうこともあるが？</span></p>
+<p class="p1"><span class="s1">A. 米国ではある程度ドキュメントがしっかりしていて、ジュニアプログラマーが作れるか（に仕事を頼めるか）が判断基準。英語版の書籍が出た時点で技術を評価してみようかという話になる。</span></p>
+<p class="p1"><span class="s1">Q. ネットワーク分析による可視化を行った後の解釈や説明を行う際の工夫や注意点など、心がけるべきことは？自身の経験（ツイッターつぶやきデータの可視化等）上、ネットワークの可視化を行い、見せても「ふーん。すごいね。」程度で終わることが多いので。</span></p>
+<p class="p1"><span class="s1">A.<span class="Apple-converted-space">  </span>アイキャッチはよく作るが見栄えが良いのと使いやすいのは違う。「だから何？」と言われないためには、サーチ、フィルタリング、インタラクティブ等の機能で使いやすさの向上が大事（サブグラフ発見、他データのオーバーレイ等）。KEGG等の人力レイアウトも。</span></p>
+<hr />
+<h2>LTのまとめ</h2>
+<p class="p1"><span class="s1">1. Vue.jsとmapboxを利用した位置情報可視化アプリケーション開発 by Kaito Kinjo</span></p>
+<p class="p1"><span class="s1">Kinjoさんは、株式会社ナイトレイのWebアプリケーションエンジニア。inbound insightの開発を手掛けていらっしゃいます。リリース当初はjQeuryなどを使っていましたが、いまはVue.jsとMapbox押し。PHPエンジニアが多いので、今後はLarabelを使っていきたいと考えているそうです。HTMLを編集せずに移行しやすいのがVue.js。GISの世界をブラウザで実現できると感じていらっしゃいます。会場からは、「inbound insightすてき！」、「mapbox使ってかっこいい地図かけそう」などといった声が上がりました。</span></p>
+<p class="p1"><span class="s1">2. データビジュアライゼーションから考える「料理とは何か？」 by 出雲翔</span></p>
+<p class="p1"><span class="s1">ご自身はビックデータを扱うデータサイエンティストである出雲さん。料理＝10種類の食材を組み合わせるもの、と仮定した上で、Flavor Network理論を実際にTensor Boardで可視化してみました。理論によれば、ビールとミルクは相性が良いそうです。データだけで見るとコーヒーとビールはテイストが少し似ていることが、その原因のよう。データ可視化によって、料理のプロ／天才のひらめき以外の方法で、料理のイノベーションが起きるかもしれませんね。出雲さんは、データビジュアライゼーションは直感的な理解を得らえる手法と考えていらっしゃいます。他にも、食材間の距離を計算して、その国らしさを算出して可視化するなどのプロジェクトを試みていらっしゃいます。</span></p>
+<p class="p1"><span class="s1">3. 日用消費財の営業戦略運営で期待されるデータ可視化 by 篠原剛</span></p>
+<p class="p1"><span class="s1">＝このコンテンツは当日ご参加いただいた方のみお楽しみ頂けました＝</span></p>
+<p class="p1"><span class="s1">4. E2D3の品質管理について by Junichi Watanuki</span></p>
+<p class="p1"><span class="s1">Watanukiさんは、E2D3では主にアプリケーションの品質管理を担っていただいているエンジニアです。オープンソースで様々な人が参加するE2D3では、品質管理の方針として「</span><span class="s2">とりあえず初めて触った人がクリックをしていくだけでそれなりに可動を確認できるようにすること。」を決めています。</span><span class="s3">2016年4月にwatanukiさんを中心として始まったE2D3品質向上プロジェクトにおける進め方や困った点についてお話しいただきました。スライドは、オープンソースの品質管理の参考になるかもしれません。</span></p>
+<p class="p2"><span class="s1">5. データの可視化とチームの進化 by 吉田 雅史</span></p>
+<p class="p2"><span class="s1">吉田さんは、人材派遣会社でマーケティングのためのデータ分析をするエンジニア。脱エクセルを目指して、PHPとMySQLとJavascriptでWebアプリケーションを構築。人間によるミスや手作業によるスピード感のなさを解消させました。</span></p>
+<p class="p2"><span class="s1">チームにエンジニアが入ることで、欲しいものをチームで一から作り上げていく結束感を得られたと言います。共同作業によりアナリストとエンジニアとの信頼関係が構築され、その結果データが民主化（だれでもいつでもどこでも見られる）され、チームメンバーが自らの主体的なアクションでデータを活用できる環境が実現したそうです。技術が味方になることによってチームの意識が向上していく様子を感じられました。</span></p>
+<p class="p2"><span class="s1">6. スポーツデータビジュアライゼーション〜東京五輪に向けて〜 by 多田哲馬</span></p>
+<p class="p2"><span class="s1">＝このコンテンツは当日ご参加いただいた方のみお楽しみ頂けました＝</span></p>
+<p class="p2"><span class="s1">7. D3.js バッドノウハウ集 by 清水正行</span></p>
+<p class="p2"><span class="s1">＝このコンテンツは当日ご参加いただいた方のみお楽しみ頂けました＝</span></p>
+<p class="p2"><span class="s1">8. Grimoire.jsとデータビジュアライゼーション by 城山賢人</span></p>
+<p class="p2"><span class="s1">城山さんは現役の大学生で、grimoire.jsを作った方です。webと連携したデータビジュアライズの可能性や波動方程式のビジュアライズについてお話しいただきました。Three.jsとgrimoireの違いについては、前者が3Dエンジニアによる複雑なコードで書かれている印象があるのに対し後者はHTMLでかける点が特徴となっているそうです。</span></p>
+<p class="p2"><p>The post <a href="/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/">【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>地理空間情報 x ビジネス x オープンソースGIS 勉強会！</title>
+		<link>/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2016 23:29:22 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[Tech Blog]]></category>
+		<guid isPermaLink="false">/?p=16161</guid>
+
+					<description><![CDATA[<p>７月１３日（水）、東京・渋谷区の青山スタートアップアクセラレーションセンター（ASAC）で、地理空間情報とQGISをはじめとしたオープンソースのGISについての勉強会を開きました。 講師は、QGISの入門書「オープンデー&#8230;</p>
+<p>The post <a href="/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/">地理空間情報 x ビジネス x オープンソースGIS 勉強会！</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>７月１３日（水）、東京・渋谷区の青山スタートアップアクセラレーションセンター（ASAC）で、地理空間情報とQGISをはじめとしたオープンソースのGISについての勉強会を開きました。</p>
+<p>講師は、QGISの入門書「オープンデータ+QGIS  統計・防災・環境情報がひと目でわかる地図の作り方」の著者で合同会社MIERUNE代表社員の朝日孝輔さんと業務執行社員の古川泰人さん。そして、総務省の槙田直木さんです。</p>
+<p>告知から時間がなかったにもかかわらず、７０名近くの方に参加していただきました。</p>
+<p><img loading="lazy" class="alignnone wp-image-16221" src="/wp-content/uploads/2016/08/13709756_1727171197500573_1223094723675715001_n-300x169.jpg" alt="13709756_1727171197500573_1223094723675715001_n" width="925" height="521" /></p>
+<p>一番バッターは、古川さん。地図を使うことで何ができるのか。そもそも地図ってなんなのか。そして、地図の役割の移り変わりについて説明していただきました。「昔の地図は<strong>権力者</strong>のメディアだった。でも、グーグルマップの登場で、今は、誰もが利用・発信できる<strong>市民</strong>のメディア（道具）になった」という言葉が印象的でした。</p>
+<p>地図が“市民”のメディアとなるツールがオープンデータやオープンソースのGIS（地理空間情報システム）で、メディアとしての成果の１つがCode for Sapporoの保育園マップなんだという説明は、なるほどなと思いました。</p>
+<p><img loading="lazy" class="alignnone wp-image-16421" src="/wp-content/uploads/2016/08/FullSizeRender-4-300x225.jpg" alt="FullSizeRender (4)" width="943" height="707" /></p>
+<p>古川さんの発表資料はこちら↓</p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/JidzoeCegPPCyM" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/yasutofurukawa/20160713e2d3workshop" title="20160713E2D3Workshop" target="_blank">20160713E2D3Workshop</a> </strong> from <strong><a href="https://www.slideshare.net/yasutofurukawa" target="_blank">Yasuto Furukawa</a></strong> </div>
+<p>続いて登壇したのは、朝日さん。ことし６月、古川さんと一緒に、地理空間情報を活用したコンサルティング会社「MiERUNE」（札幌市）を立ち上げました。</p>
+<p>古川さんは、QGISの実践的な使い方を中心に、地図上にデータを重ね合わせることで新たな事実を発見するをデータ解析の方法や、QGISのプラグイン機能を活用したアニメーションや３Dによる視覚化の方法について、分かりやすく講義してくれました。一見するととっつきにくいQGISですが、ありとあらゆる機能を自由に利用することができるポテンシャルの大きさを感じさせてくれました。</p>
+<p><img loading="lazy" class="alignnone wp-image-16401" src="/wp-content/uploads/2016/08/FullSizeRender-300x225.jpg" alt="FullSizeRender" width="977" height="733" /></p>
+<p>朝日さんの発表資料はこちら↓</p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/6BA4bfoiTQTl8v" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/waigania13/x-x-gis-64045728" title="地理空間情報 x ビジネス x オープンソースGIS 勉強会！" target="_blank">地理空間情報 x ビジネス x オープンソースGIS 勉強会！</a> </strong> from <strong><a href="https://www.slideshare.net/waigania13" target="_blank">Kosuke Asahi</a></strong> </div>
+<p>地理空間情報とは言っても、どんなデータがどこにあるのか。槙田さんは、私たちが自由に使える公共データの使い方や注意点などを解説してくれました。</p>
+<p>特に、農林水産省が公開している農林業センサスを中心とした「地域の農業を見て、知って、活かすDB」は、ことし６月に公開が始まったばかりのデータベースで、貴重な情報をいただきました。</p>
+<p><img loading="lazy" class="alignnone wp-image-16411" src="/wp-content/uploads/2016/08/FullSizeRender-2-300x225.jpg" alt="FullSizeRender (2)" width="951" height="713" /></p>
+<p>槙田さんの発表資料はこちら↓</p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/rDNzrgOtOqe9JM" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/makitanaoki/qgis-63970126" title="QGISで遊べる公共境界データ Public boundary data of small areas of Japan for QGIS beginners" target="_blank">QGISで遊べる公共境界データ Public boundary data of small areas of Japan for QGIS beginners</a> </strong> from <strong><a href="https://www.slideshare.net/makitanaoki" target="_blank">Naoki MAKITA</a></strong> </div>
+<p>もともとこの勉強会。上京の予定があった朝日さんが、イベントを通じて知り合ったE2D3の五十嵐康伸さんに「お茶でも飲みませんか」と連絡したのがきっかけだったといいます。「だったら、できるだけ多くの人にGISの魅力を知ってもらおう」と、ほぼ“ムリャぶり”に近い形で準備が始まりました。開催まで間がなく、果たしてどれだけの人が関心を持ってくれるのか心配でしたが、会場が満席になるほどの盛況になり、地理空間情報への関心の高さに驚きました。（会場で、朝日さんと五十嵐さんはこの日が初対面だったことを知ってさらに驚きました。）</p>
+<p>最後に会場の提供にご協力いただいた、トーマツベンチャーサポートの松本雄大さんには、この場を借りて、改めて感謝を申し上げます。</p><p>The post <a href="/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/">地理空間情報 x ビジネス x オープンソースGIS 勉強会！</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>E2D3 test of nature materials.</title>
+		<link>/2015/09/30/e2d3-test-of-nature-materials/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2015 01:19:59 +0000</pubDate>
+				<category><![CDATA[Tech Blog]]></category>
+		<guid isPermaLink="false">/?p=7671</guid>
+
+					<description><![CDATA[<p>svgファイルをバックグラウンドに指定しています。svgアニメーションはブラウザ非推奨になっているので、CSSでアニメーションを実装しています。E2D3のリストへは近日中に公開予定です。 Rainy Day Downlo&#8230;</p>
+<p>The post <a href="/2015/09/30/e2d3-test-of-nature-materials/">E2D3 test of nature materials.</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[</p>
+<p>svgファイルをバックグラウンドに指定しています。svgアニメーションはブラウザ非推奨になっているので、CSSでアニメーションを実装しています。E2D3のリストへは近日中に公開予定です。</p>
+<div style="margin-bottom: 30px; padding: 30px 30px 0 30px; border: 1px solid #ddd; height: 200px; background-image: url('http://pita-ri.jp/blog/2015/materials-test/rain.svg'); background-repeat: no-repeat;">
+<h3>Rainy Day</h3>
+<hr />
+<p><a href="http://pita-ri.jp/blog/2015/materials-test/rain.svg" target="_blank">Download svg file</a></p>
+</div>
+<div style="margin-bottom: 30px; padding: 30px 30px 0 30px; border: 1px solid #ddd; height: 200px; background-image: url('http://pita-ri.jp/blog/2015/materials-test/droplet.svg'); background-repeat: no-repeat;">
+<h3>Water Drop</h3>
+<hr />
+<p><a href="http://pita-ri.jp/blog/2015/materials-test/droplet.svg" target="_blank">Download svg file</a></p>
+</div>
+<p>11/7に関連イベントを開催いたします。</p>
+<p><a href="http://e2d3.connpass.com/event/20658/" target="_blank">【裏鎌倉×野良IT】感性ビジュアライゼーションの世界</a></p>
+<p>　</p>
+<p>　</p>
+<p>　</p></p><p>The post <a href="/2015/09/30/e2d3-test-of-nature-materials/">E2D3 test of nature materials.</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>&#034;Is it getting hot in Japan?&#034; I tried to visualise the data to confirm it.</title>
+		<link>/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2015 14:38:09 +0000</pubDate>
+				<category><![CDATA[Tech Blog]]></category>
+		<category><![CDATA[d3js]]></category>
+		<category><![CDATA[dcjs]]></category>
+		<category><![CDATA[e2d3]]></category>
+		<guid isPermaLink="false">/?p=7081</guid>
+
+					<description><![CDATA[<p>このポストは、株式会社ユーザベース様の許可を得て転載しております。オリジナルエントリーは、 「日本の夏は高温化しているか？」について可視化して確かめてみた。 をご参照ください。</p>
+<p>The post <a href="/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/">"Is it getting hot in Japan?" I tried to visualise the data to confirm it.</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://tech.uzabase.com/entry/2015/08/05/185131" target="_blank"><img loading="lazy" class="img-thumbnail aligncenter wp-image-7111 size-full" src="/wp-content/uploads/2015/08/uzabase_blog_201508.png" alt="uzabase_blog_201508" width="1057" height="447" /></a></p>
+<p>このポストは、株式会社ユーザベース様の許可を得て転載しております。オリジナルエントリーは、</p>
+<p><a href="http://tech.uzabase.com/entry/2015/08/05/185131" target="_blank">「日本の夏は高温化しているか？」について可視化して確かめてみた。</a></p>
+<p>をご参照ください。</p><p>The post <a href="/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/">"Is it getting hot in Japan?" I tried to visualise the data to confirm it.</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Commit Graphs to E2D3 for Mac Users</title>
+		<link>/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2015 15:33:10 +0000</pubDate>
+				<category><![CDATA[Tech Blog]]></category>
+		<guid isPermaLink="false">/?p=3291</guid>
+
+					<description><![CDATA[<p>こんにちは E2D3のContributerの大曽根です。 今回は、はじめてのグラフをcommitする 環境は、Mac(バージョン 10.10.2) + Chrome(バージョン 41.0.*)です。 まずこちらを参考に&#8230;</p>
+<p>The post <a href="/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/">How to Commit Graphs to E2D3 for Mac Users</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>こんにちは</p>
+<p>E2D3のContributerの大曽根です。</p>
+<p>今回は、はじめてのグラフをcommitする</p>
+<p>環境は、Mac(バージョン 10.10.2) + Chrome(バージョン 41.0.*)です。</p>
+<p>まずこちらを参考にして、E2D3のソースを持ってきます。</p>
+<p>https://github.com/e2d3/e2d3/wiki/Getting-Started</p>
+<p><code>npm start</code></p>
+<p>をして<a title="http://localhost:8000/index.html" href="http://localhost:8000/index.html">http://localhost:8000/index.html</a>にアクセスすると、下記のような画面を見ることができます。</p>
+<p><img loading="lazy" class="size-medium wp-image-3421 alignleft" src="/wp-content/uploads/2015/04/E2D3-300x231.png" alt="E2D3" width="300" height="231" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>ここにグラフを追加することができます。</p>
+<p>今回は、bubble-chartを追加したいと思います。</p>
+<p>cloneしてきたままですと、masterのbranchにいますので、まず、branchをきってそこに移ります。</p>
+<p>今回はbubble-chartなので、branch名もbubble-chartにします。</p>
+<p><code>$ git checkout -b bubble-chart</code></p>
+<p>まずは、contribディレクトリ直下に&#8221;bubble-chart&#8221;というディレクトリを作成します。</p>
+<p>その中に</p>
+<p>data.csv</p>
+<p>main.css</p>
+<p>main.js</p>
+<p>README.md</p>
+<p>thumbnail.png</p>
+<p>というファイルを作成します。</p>
+<p>※今回はサンプルのbarchart-javascriptから持ってきてしまいました。</p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2015/04/files.png"><img loading="lazy" class="size-full wp-image-3511" src="/wp-content/uploads/2015/04/files.png" alt="files" width="140" height="160" /></a></p>
+<p>主にmain.jsをいじってグラフを作成していきます。</p>
+<p>今回はbubble chartということで3つのメトリックをそれぞれ、x軸とy軸および円の大きさにプロットします。</p>
+<p>こんな感じに作ってみました。</p>
+<p>&nbsp;</p>
+<p><a href="/wp-content/uploads/2015/04/bubblechart.png"><img loading="lazy" class="size-medium wp-image-3472" src="/wp-content/uploads/2015/04/bubblechart-300x202.png" alt="bubblechart" width="300" height="202" /></a></p>
+<p>次に、サムネイルの設定をしていこうと思います。好きな画像をディレクトリ内に入れて</p>
+<p>thumbnail.pngという名前で保存すればよいのですが、E2D3の&#8221;Save Image&#8221;の機能を使って作成してみようかと思います。</p>
+<p>先ほどの画像の右上の&#8221;Save Image&#8221;のボタンを押下し、.png形式で保存します。</p>
+<p>その後、bubble-chartのディレクトリにthumbnail.pngという名前で保存すれば完了です。</p>
+<p>一覧に表示されるようになります。</p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2015/04/index.png"><img loading="lazy" class="size-medium wp-image-3481" src="/wp-content/uploads/2015/04/index-300x202.png" alt="index" width="300" height="202" /></a></p>
+<p>最後に、READMEを編集しましょう。README.mdを編集することで、Indexのグラフのサムネイルをマウスオーバーした際の表示を変更することができます。下の図がその例になります。</p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2015/04/readme.png"><img loading="lazy" class="size-medium wp-image-3501" src="/wp-content/uploads/2015/04/readme-300x202.png" alt="readme" width="300" height="202" /></a></p>
+<p>できましたら、commitして、</p>
+<p><code>$ git commit -m "bubble-chart added"</code></p>
+<p>Pull Requestを行い、マージしてもらえれば完了です。</p>
+<p><a href="/wp-content/uploads/2015/04/PullRequest.png"><img loading="lazy" class="aligncenter size-medium wp-image-3521" src="/wp-content/uploads/2015/04/PullRequest-300x59.png" alt="PullRequest" width="300" height="59" /></a></p><p>The post <a href="/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/">How to Commit Graphs to E2D3 for Mac Users</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

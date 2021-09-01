@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>アイデアソン | E2D3</title>
+	<atom:link href="http://localhost/tag/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%BD%E3%83%B3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Data Visualization for All</description>
+	<lastBuildDate>Sun, 17 Feb 2019 06:33:26 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>「E2D3第1回スポーツデータなんでも可視化アイデアソン」を開催しました</title>
+		<link>/2017/03/18/%e3%80%8ce2d3%e7%ac%ac1%e5%9b%9e%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%87%e3%83%bc%e3%82%bf%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2/</link>
+		
+		<dc:creator><![CDATA[yupa884]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2017 07:17:30 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[アイデアソン／ハッカソン]]></category>
+		<category><![CDATA[d3js]]></category>
+		<category><![CDATA[e2d3]]></category>
+		<category><![CDATA[アイデアソン]]></category>
+		<category><![CDATA[スポーツ]]></category>
+		<guid isPermaLink="false">/?p=18526</guid>
+
+					<description><![CDATA[<p>2017年2月18日、株式会社アットウェアさんの会議室をお借りして「E2D3第1回スポーツデータなんでも可視化アイデアソン」を開催しました。  version1.0を迎えた今期のE2D3が注力するのは、スポーツです。3年&#8230;</p>
+<p>The post <a href="/2017/03/18/%e3%80%8ce2d3%e7%ac%ac1%e5%9b%9e%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%87%e3%83%bc%e3%82%bf%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2/">「E2D3第1回スポーツデータなんでも可視化アイデアソン」を開催しました</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">2017年2月18日、株式会社アットウェアさんの会議室をお借りして「E2D3第1回スポーツデータなんでも可視化アイデアソン」を開催しました。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18540" src="/wp-content/uploads/2017/03/DSC_1153-169x300.jpg" alt="" width="169" height="300" srcset="/wp-content/uploads/2017/03/DSC_1153-169x300.jpg 169w, /wp-content/uploads/2017/03/DSC_1153-768x1365.jpg 768w, /wp-content/uploads/2017/03/DSC_1153-576x1024.jpg 576w" sizes="(max-width: 169px) 100vw, 169px" /></p>
+<p class="p1"><span class="s1">version1.0を迎えた今期のE2D3が注力するのは、スポーツです。3年後の東京オリンピックを念頭に置き、E2D3は誰もがスポーツデータビジュアライズを簡単に実現できるような環境を整えていきたいと考えています。第一回のイベントは、参加者の皆さんにスポーツデータの可視化アイデアを発表し合って頂くアイデアソンです。本日出たアイデアについては、3月4日開催予定のE2D3スポーツデータハッカソンにて実際にプログラミングする予定です。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18539" src="/wp-content/uploads/2017/03/DSC_1157-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1157-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1157-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1157-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1"> </span><span class="s1">イベントは午前と午後に分かれており、午前はスポーツデータ可視化イベント全体の企画会議、午後はアイデアソンを行いました。主催者側の難解なアナウンスのおかげもあり、多くの方が企画会議からご参加下さいました。午後のアイデアソンでは、インプットレクチャーの後、参加者全員が関心のあるスポーツ別に５つのチームに分かれてスポーツデータ可視化アイデアの練り上げを行い、最終的に５つのアイデアが発表されました。</span></p>
+<p>&nbsp;</p>
+<p class="p1"><span class="s1">■企画会議 </span></p>
+<p class="p1"><span class="s1">E2D3は、オープンソースのExcelアドインアプリケーションであり、E2D3開発及び普及に携わる人々のコミュニティそのものでもあります。コミュニティ自体がオープンなので、職種やこれまでのキャリアに関わらず、各自がそれぞれの目的意識を持ってコミュニティに貢献しています。その精神にのっとり、今回のイベント企画会議はスポーツのデータビジュアライゼーションに関心のある初参加の皆さんにもご参加いただける形式にしました。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18533" src="/wp-content/uploads/2017/03/DSC_1148-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1148-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1148-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1148-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">E2D3についてのレクチャーの後。５人のE2D3イベント初参加の方と一緒に、①スポーツデータビジュアライゼーションの作品例のシェア、②あったら良いなと思うデータビジュアライゼーション例やデータ例、③データの視点での現在のスポーツジャーナリズムやオリンピック/パラリンピックの課題を、slack及びリアルでシェアしました。技術点と演技後構成点で評価される競技や異なる競技を比較し合う見せ方について、盛り上がりました。 </span></p>
+<p class="p1"><span class="s1"><br />
+</span></p>
+<p class="p1"><span class="s1">■インプットレクチャー</span></p>
+<p class="p1"><span class="s1">本イベントの方針と進め方について参加者にシェアした後、スポーツとデータビジュアライゼーションに関連したテーマのレクチャー二つが行われました。講師は午前中の企画会議に参加されたお二人、MatsuokaさんとKiryuさんです。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">【Matsuokaさん 】</span></p>
+<p><img loading="lazy" class="size-medium wp-image-18537" src="/wp-content/uploads/2017/03/DSC_1149-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1149-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1149-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1149-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">美術専門学校でデザインを教えていらっしゃる現役の先生です。授業で取り扱っている情報編集では、コンテンツ、コンテキスト、コミュニケーションの３つのCを意識して情報を伝達することが重要になります。授業で、電鉄各線の最速電車（特急、快速など）を同じ路線の低速の電車（各駅、鈍行など）と比較して何割早いかという基準を作ってビジュアルとともに比較させたことを例に上げていただき、「比較することで情報になる」「うごく、かわる、などものに動きが発生することで情報として成り立っていく」「情報可視化のファーストステップは基準をつくって他者と比較できる形にすること」等をインプットして頂きました。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">【kiryuさん 】</span></p>
+<p><img loading="lazy" class="size-medium wp-image-18536" src="/wp-content/uploads/2017/03/DSC_1152-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1152-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1152-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1152-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">ハッカソン大好きなデザイナーさん。スポーツデータの可視化におけるデザインの重要性についてレクチャー頂きました。 言語フリー、エイジフリー、属性フリーというスポーツデータのビジュアライゼーションの魅力を、美しいグラフィックとともにお話いただきました。「生きているグラフ」というキーワードを提示されましたが、スライドとお話自体が生きている動きのあるレクチャーでした。</span></p>
+<p>■チームごとにアイデアの練り上げ、そして発表</p>
+<p class="p1"><span class="s1">午前中にシェアされた過去のデータビジュアライゼーションやデータジャーナリズム作品をイメージしながら、各自が関心のあるスポーツ毎にチームでアイデアを練り上げました。チームごとの激しいディスカッションの結果、以下の五つの作品が発表されました。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">「サッカー１」 </span></p>
+<p class="p1"><span class="s1">プロ選手の体の動きと自分の体の動きを比較しよう。youtubeに動画をアップするだけで簡単に比較可能。生徒は自分のサッカープレーの様子を動画で撮影。簡易的なモーションキャプチャーに落とし込んで改善点を知る。使用シーンは、学校で友達と比較やプロ選手と自分のフォームとの比較。javascriptとHTML5で動的な解析ができるようなので、技術面でも問題なし。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18530" src="/wp-content/uploads/2017/03/DSC_1162-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1162-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1162-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1162-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">自販機の購入時の顧客の視点移動の研究や、自販機詰めのプロと下手な人の動きの比較などを類推した、といったコメントがありました。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">「サッカー２ 」</span></p>
+<p class="p1"><span class="s1">サッカーのシュートの角度を測る。サッカーのキックは足の角度によって効果が変わってくることが研究でわかっている。実際に足の角度を測ることが出来る無料アプリを活用して、キックの効果を判別/学習していく。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18535" src="/wp-content/uploads/2017/03/DSC_1165-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1165-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1165-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1165-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">個人技よりはチームのフォーメーション／戦略のほうが選手やチームにとって重要度が高いこともあるのではないか、実際のトレーニングに使えそう、といった意見がありました。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">「野球・ソフトボール 」</span></p>
+<p class="p1"><span class="s1">「ボールをどこまで遠くに投げられるか」を可視化する。小学生が野外でボールを投げて遠投距離を測る。その結果を可視化して、飛ばした距離をイチロー選手の打球の飛距離や電車の車両の長さと比較する。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18532" src="/wp-content/uploads/2017/03/DSC_1170-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1170-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1170-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1170-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>通常では比較できないようなものと自分とを比較してみたいという子供たちの興味をそそりそうだとのコメントがありました。</p>
+<p class="p1">「イケメン卓球選手と学ぶ二次方程式」</p>
+<p class="p1"><span class="s1">卓球の球の動きを二次方程式の描く放物線と見立てて可視化します。イケメン卓球選手にうまく球を返せるような放物線を描く二次方程式を考えつけるかということがポイントで、二次方程式を学ぶ頃から数学に興味がなくなりがちな女子中学生をターゲットにしています。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18538" src="/wp-content/uploads/2017/03/DSC_1172-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1172-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1172-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1172-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1">こういうグラフがあれば、数学も好きになれたのにというコメントがありました。</p>
+<p class="p1"><span class="s1"><br />
+「ドッキドキ 」</span></p>
+<p class="p1"><span class="s1">データ可視化によってよりエンジョイすることができる新しいスポーツを考えてくださったのが、「ドッキドキ」チームです。 </span></p>
+<p><img loading="lazy" class="size-medium wp-image-18529" src="/wp-content/uploads/2017/03/DSC_1176-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1176-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1176-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1176-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p class="p1"><span class="s1">心拍数が１３０になったらバトンを渡せるドキドキリレー。足の速さ等の身体的能力ではなくいかに心拍数を高くできたかどうかを競うことで、体型に関わらず協力して遊べる遊びを作り出しました。世界の裏側の人との協力や室内からの参加も可能です。自分の身体に興味を持ち、他者と協力することに関心を持てるようになるゲームです。 </span></p>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1">参加者投票による優勝は、ドッキドキチーム！おめでとうございます。</p>
+<div id="attachment_18531" style="width: 310px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-18531" loading="lazy" class="size-medium wp-image-18531" src="/wp-content/uploads/2017/03/DSC_1177-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1177-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1177-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1177-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><p id="caption-attachment-18531" class="wp-caption-text">参加者の方が差し入れてくださったシュウマイが優勝者に手渡されます。</p></div>
+<p class="p1"><span class="s1"> </span></p>
+<p class="p1"><span class="s1">Slack上とリアルとでの平行した交流がイベント全体を盛り上げました。ターゲットは誰なのか、どのような機能があればターゲットがストレスフリーでデータ可視化に親しめるのかといったイベントコンセプトの細部から全体までを、参加者同士で考えるところからスタートした点に於いて特異な取り組みでした。面白いスポーツデータ可視化アイデアを出し合う純粋なブレインストーミングとは異なり、企画会議に参加した参加者自らイベントを設計し、ハッカソンの手前のアイデア固めまで行うボリュームのあるイベントでしたが、懇親会の参加率も高く、運営サイドを含めた参加者の多くが本イベントを楽しみ切ったように感じました。 有難うございました。</span></p>
+<p><img loading="lazy" class="size-medium wp-image-18534" src="/wp-content/uploads/2017/03/DSC_1179-300x169.jpg" alt="" width="300" height="169" srcset="/wp-content/uploads/2017/03/DSC_1179-300x169.jpg 300w, /wp-content/uploads/2017/03/DSC_1179-768x432.jpg 768w, /wp-content/uploads/2017/03/DSC_1179-1024x576.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>The post <a href="/2017/03/18/%e3%80%8ce2d3%e7%ac%ac1%e5%9b%9e%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e3%83%87%e3%83%bc%e3%82%bf%e3%81%aa%e3%82%93%e3%81%a7%e3%82%82%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2/">「E2D3第1回スポーツデータなんでも可視化アイデアソン」を開催しました</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

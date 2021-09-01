@@ -1,0 +1,649 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="/wp-content/themes/e2d3-web/style.css">
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+		<!-- All in One SEO 4.1.3.3 -->
+		<title>Tech Blog | E2D3</title>
+		<meta name="robots" content="noindex, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+		<link rel="canonical" href="/category/tech/">
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/localhost:8888\/#website","url":"http:\/\/localhost:8888\/","name":"E2D3","description":"Data Visualization for All","publisher":{"@id":"http:\/\/localhost:8888\/#organization"}},{"@type":"Organization","@id":"http:\/\/localhost:8888\/#organization","name":"E2D3","url":"http:\/\/localhost:8888\/"},{"@type":"BreadcrumbList","@id":"http:\/\/localhost:8888\/category\/tech\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/localhost:8888\/#listItem","position":"1","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/","name":"ホーム","description":"Data Visualization for All","url":"http:\/\/localhost:8888\/"},"nextItem":"http:\/\/localhost:8888\/category\/tech\/#listItem"},{"@type":"ListItem","@id":"http:\/\/localhost:8888\/category\/tech\/#listItem","position":"2","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/category\/tech\/","name":"Tech Blog","url":"http:\/\/localhost:8888\/category\/tech\/"},"previousItem":"http:\/\/localhost:8888\/#listItem"}]},{"@type":"CollectionPage","@id":"http:\/\/localhost:8888\/category\/tech\/#collectionpage","url":"http:\/\/localhost:8888\/category\/tech\/","name":"Tech Blog | E2D3","inLanguage":"ja","isPartOf":{"@id":"http:\/\/localhost:8888\/#website"},"breadcrumb":{"@id":"http:\/\/localhost:8888\/category\/tech\/#breadcrumblist"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="E2D3 &raquo; Tech Blog カテゴリーのフィード" href="/category/tech/feed/">
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.18.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-64664602-1" type="text/javascript" data-cfasync="false" async></script>
+			<script type="text/javascript" data-cfasync="false">
+				var mi_version = '7.18.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-64664602-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( mi_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-64664602-1', {
+						forceSSL:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+										if ( args.hasOwnProperty(arg) && gaMap.hasOwnProperty(arg) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.8" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="e2d3_widget_style-css" href="/wp-content/themes/e2d3-web/style-child.css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all">
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-3{font-size:6px}</style>
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"http://localhost:8888/wp-admin/admin-ajax.php",
+				"nonce": "915f6276e2",
+				"home_url": "http://localhost:8888"
+			};
+			/* ]]\> */
+		</script>
+		<script type="text/javascript" id="monsterinsights-frontend-script-js-extra">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"http:\/\/localhost:8888","hash_tracking":"false","ua":"UA-64664602-1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=7.18.0" id="monsterinsights-frontend-script-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/categories/2">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8">
+<!-- Enter your scripts here -->
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.12';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+    <nav class="top-menu">
+        <div class="menu-body" id="menu-body">
+            <h1 class="menu-home"><a href="/">E2D3</a></h1>
+            <div id="menu-button"><span></span></div>
+            <ul class="menu-list">
+                <li class="body-item menu-about">
+                    <a href="#anchor-about">About E2D3</a>
+                    <ul class="menu-inner">
+                        <li><a href="/e2d3-project-member/">チームメンバー</a></li>
+                        <li><a href="/activity-log/">活動履歴</a></li>
+                        <li><a href="/privacy/">プライバシーポリシー</a></li>
+                    </ul>
+                </li>
+                <li class="body-item menu-product">
+                    <a>Use E2D3 on Excel</a>
+                    <ul class="menu-inner">
+                        <li><a href="/app-install/">インストール方法</a></li>
+                        <li><a href="/howtouse/">使い方</a></li>
+                    </ul>
+                </li>
+                <li class="body-item menu-events">
+                    <a href="#anchor-event" class="anchor-link">Events</a>
+                </li>
+                <li class="body-item menu-language">
+                    <a href="/en/">English</a>
+                </li>
+                <li class="body-item menu-github">
+                    <a href="https://github.com/e2d3/">Github</a>
+                </li>
+                <li class="body-item menu-twitter">
+                    <a href="https://twitter.com/e2d3org">Twitter</a>
+                </li>
+                <li class="body-item menu-facebook">
+                    <a href="https://www.facebook.com/e2d3project/">Facebook</a>
+                </li>
+            </ul>
+        </div>
+<!-- /.menu-body -->
+    </nav><!-- /.main-menu -->
+
+    <main class="main e2d3_archive e2d3_child">
+<!-- アーカイブ -->
+      <section class="module e2d3-page-content">
+        <div class="module-inner">
+
+          
+            <header class="page-header">
+
+							<h1 class="page-title">
+                <span>カテゴリー: Tech Blog</span>
+							</h1>
+
+						</header><!-- .page-header -->
+
+                      <article class="entry post-18848 post type-post status-publish format-standard hentry category-news category-report category-tech tag-oss">
+
+              <div class="listpost-content-wrap-full">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/" rel="bookmark">NTT Tech Conference #2への参加について</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2018/01/02)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/" title="NTT Tech Conference #2への参加について" class="entry-description">
+              <p>2017年8月10日、田町グランパークプラザで開催された「NTT Tech Conference」にて、E2D3のデモ(ハンズオン)及びカンファレンス(E2D3の開発で気づいたOSSの効用)講演に参加してまいりました。 &hellip;</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/news/" rel="category tag">News</a>, <a href="/category/report/" rel="category tag">Report</a>, <a href="/category/tech/" rel="category tag">Tech Blog</a></span><span class="tags-links">タグ: <a href="/tag/oss/" rel="tag">oss</a></span>
+             </footer>
+
+           
+                      <article class="entry post-18804 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-report category-tech tag-cytospace tag-dataviz tag-e2d3">
+
+              <div class="post-img-wrap"><a href="/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/" title="【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました"><img width="250" height="250" src="/wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2.png" class="attachment-e2d3-post-thumbnail size-e2d3-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2.png 1644w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-150x150.png 150w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-300x300.png 300w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-768x768.png 768w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-1024x1024.png 1024w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-250x250.png 250w, /wp-content/uploads/2017/07/7dbdc58c5b5ad8ec94742b50dee94973147a7805-2-174x174.png 174w" sizes="(max-width: 250px) 100vw, 250px"></a></div>
+<div class="listpost-content-wrap">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/" rel="bookmark">【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2017/08/16)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2017/08/16/%e3%80%90%e8%ac%9b%e6%bc%94%e4%bc%9a%e3%80%91%e3%80%8c%e3%83%a2%e3%83%80%e3%83%b3%e3%81%aa%e3%80%8d%e5%8f%af%e8%a6%96%e5%8c%96%e3%82%a2%e3%83%97%e3%83%aa%e3%82%b1%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3/" title="【講演会】「モダンな」可視化アプリケーション開発とはどのようなものか？を開催しました" class="entry-description">
+              <p>2017年7月8日（土）、TECHPLAY SHIBUYA（旧dots.）をお借りして、E2D3もくもく会と講演会を開催しました。 カリフォルニア大学サンディエゴ校医学部に所属するエンジニアであり、オープンソースのネット&hellip;</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/news/" rel="category tag">News</a>, <a href="/category/report/" rel="category tag">Report</a>, <a href="/category/tech/" rel="category tag">Tech Blog</a></span><span class="tags-links">タグ: <a href="/tag/cytospace/" rel="tag">cytospace</a>, <a href="/tag/dataviz/" rel="tag">dataviz</a>, <a href="/tag/e2d3/" rel="tag">e2d3</a></span>
+             </footer>
+
+           
+                      <article class="entry post-16161 post type-post status-publish format-image has-post-thumbnail hentry category-report category-tech post_format-post-format-image">
+
+              <div class="post-img-wrap"><a href="/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/" title="地理空間情報 x ビジネス x オープンソースGIS 勉強会！"><img width="250" height="188" src="/wp-content/uploads/2016/08/IMG_1488-1.jpg" class="attachment-e2d3-post-thumbnail size-e2d3-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2016/08/IMG_1488-1.jpg 1632w, /wp-content/uploads/2016/08/IMG_1488-1-300x225.jpg 300w, /wp-content/uploads/2016/08/IMG_1488-1-768x576.jpg 768w, /wp-content/uploads/2016/08/IMG_1488-1-1024x768.jpg 1024w, /wp-content/uploads/2016/08/IMG_1488-1-285x214.jpg 285w" sizes="(max-width: 250px) 100vw, 250px"></a></div>
+<div class="listpost-content-wrap">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/" rel="bookmark">地理空間情報 x ビジネス x オープンソースGIS 勉強会！</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2016/08/26)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2016/08/26/%e5%9c%b0%e7%90%86%e7%a9%ba%e9%96%93%e6%83%85%e5%a0%b1-x-%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9-x-%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9gis-%e5%8b%89%e5%bc%b7%e4%bc%9a%ef%bc%81/" title="地理空間情報 x ビジネス x オープンソースGIS 勉強会！" class="entry-description">
+              <p>７月１３日（水）、東京・渋谷区の青山スタートアップアクセラレーションセンター（ASAC）で、地理空間情報とQGISをはじめとしたオープンソースのGISについての勉強会を開きました。 講師は、QGISの入門書「オープンデー&hellip;</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/report/" rel="category tag">Report</a>, <a href="/category/tech/" rel="category tag">Tech Blog</a></span>
+             </footer>
+
+           
+                      <article class="entry post-7671 post type-post status-publish format-standard has-post-thumbnail hentry category-tech">
+
+              <div class="post-img-wrap"><a href="/2015/09/30/e2d3-test-of-nature-materials/" title="E2D3 test of nature materials."><img width="250" height="79" src="/wp-content/uploads/2015/09/droplet-1.png" class="attachment-e2d3-post-thumbnail size-e2d3-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/09/droplet-1.png 625w, /wp-content/uploads/2015/09/droplet-1-300x95.png 300w" sizes="(max-width: 250px) 100vw, 250px"></a></div>
+<div class="listpost-content-wrap">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2015/09/30/e2d3-test-of-nature-materials/" rel="bookmark">E2D3 test of nature materials.</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2015/09/30)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2015/09/30/e2d3-test-of-nature-materials/" title="E2D3 test of nature materials." class="entry-description">
+              <p>svgファイルをバックグラウンドに指定しています。svgアニメーションはブラウザ非推奨になっているので、CSSでアニメーションを実装しています。E2D3のリストへは近日中に公開予定です。 Rainy Day Downlo&hellip;</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/tech/" rel="category tag">Tech Blog</a></span>
+             </footer>
+
+           
+                      <article class="entry post-7081 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-d3js tag-dcjs tag-e2d3">
+
+              <div class="post-img-wrap"><a href="/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/" title="&quot;Is it getting hot in Japan?&quot; I tried to visualise the data to confirm it."><img width="250" height="99" src="/wp-content/uploads/2015/08/498697929_fb8ab73ae4-e1439475321769-1.jpg" class="attachment-e2d3-post-thumbnail size-e2d3-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/08/498697929_fb8ab73ae4-e1439475321769-1.jpg 500w, /wp-content/uploads/2015/08/498697929_fb8ab73ae4-e1439475321769-1-300x118.jpg 300w" sizes="(max-width: 250px) 100vw, 250px"></a></div>
+<div class="listpost-content-wrap">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/" rel="bookmark">&quot;Is it getting hot in Japan?&quot; I tried to visualise the data to confirm it.</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2015/08/13)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2015/08/13/is-it-getting-hot-in-japan-i-tried-to-visualise-the-data-to-confirm-it/" title="&quot;Is it getting hot in Japan?&quot; I tried to visualise the data to confirm it." class="entry-description">
+              <p>このポストは、株式会社ユーザベース様の許可を得て転載しております。オリジナルエントリーは、 「日本の夏は高温化しているか？」について可視化して確かめてみた。 をご参照ください。</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/tech/" rel="category tag">Tech Blog</a></span><span class="tags-links">タグ: <a href="/tag/d3js/" rel="tag">d3js</a>, <a href="/tag/dcjs/" rel="tag">dcjs</a>, <a href="/tag/e2d3/" rel="tag">e2d3</a></span>
+             </footer>
+
+           
+                      <article class="entry post-3291 post type-post status-publish format-standard has-post-thumbnail hentry category-tech">
+
+              <div class="post-img-wrap"><a href="/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/" title="How to Commit Graphs to E2D3 for Mac Users"><img width="250" height="193" src="/wp-content/uploads/2015/04/E2D3-1.png" class="attachment-e2d3-post-thumbnail size-e2d3-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="/wp-content/uploads/2015/04/E2D3-1.png 1392w, /wp-content/uploads/2015/04/E2D3-1-300x231.png 300w, /wp-content/uploads/2015/04/E2D3-1-768x591.png 768w, /wp-content/uploads/2015/04/E2D3-1-1024x789.png 1024w" sizes="(max-width: 250px) 100vw, 250px"></a></div>
+<div class="listpost-content-wrap">
+              <div class="list-post-top">
+
+              <!-- タイトルなど -->
+            	<header class="entry-header">
+
+            		<h1 class="entry-title"><a href="/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/" rel="bookmark">How to Commit Graphs to E2D3 for Mac Users</a></h1>
+
+            		
+                <!-- 投稿日 -->
+            		<div class="entry-meta">
+
+                  (2015/04/06)
+            		</div>
+<!-- .entry-meta -->
+
+            		
+            	</header><!-- .entry-header -->
+
+              <!-- 抜粋 -->
+              <div class="entry-content">
+
+              <a href="/2015/04/06/%e6%97%a5%e6%9c%ac%e8%aa%9e-e2d3%e3%81%ab%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92commit%e3%81%99%e3%82%8bmac/" title="How to Commit Graphs to E2D3 for Mac Users" class="entry-description">
+              <p>こんにちは E2D3のContributerの大曽根です。 今回は、はじめてのグラフをcommitする 環境は、Mac(バージョン 10.10.2) + Chrome(バージョン 41.0.*)です。 まずこちらを参考に&hellip;</p>
+             </a>
+
+             </div>
+             <footer class="entry-footer">
+
+               <span class="cat-links">カテゴリー: <a href="/category/tech/" rel="category tag">Tech Blog</a></span>
+             </footer>
+
+           
+                          </div>
+      
+<!-- サイドバー -->
+      <section class="sidebar-wrap col-md-3 clear-fix content-left-wrap module e2d3-sidebar">
+          <div class="widget-area module-inner">
+            <aside id="search-2" class="widget widget_search"><form method="get" class="search-form" action="/">
+  <label>
+		<span class="screen-reader-text">検索:</span>
+		<input type="search" class="search-field" placeholder="検索 …" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="検索">
+</form>
+</aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">最近の投稿</h2>
+		<ul>
+											<li>
+					<a href="/2021/08/16/announcement-on-ending-support-service-for-e2d3/">Announcement on ending support service for E2D3</a>
+									</li>
+											<li>
+					<a href="/2021/08/14/e2d3-%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/">E2D3 終了のお知らせ</a>
+									</li>
+											<li>
+					<a href="/2019/05/07/e2d3%e7%99%ba%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e5%8f%af%e8%a6%96%e5%8c%96%e6%9c%ac%e3%81%8c%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/">E2D3発のデータ可視化本が好評発売中！</a>
+									</li>
+											<li>
+					<a href="/2019/02/16/2%e6%9c%8816%e6%97%a5-%e3%82%82%e3%81%8f%e3%82%82%e3%81%8f%e4%bc%9a-vol-31%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%99/">2月16日 もくもく会 vol. 31を開催します</a>
+									</li>
+											<li>
+					<a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/">NTT Tech Conference #2への参加について</a>
+									</li>
+					</ul>
+
+		</aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">アーカイブ</h2>
+			<ul>
+					<li><a href="/2021/08/">2021年8月</a></li>
+	<li><a href="/2019/05/">2019年5月</a></li>
+	<li><a href="/2019/02/">2019年2月</a></li>
+	<li><a href="/2018/01/">2018年1月</a></li>
+	<li><a href="/2017/11/">2017年11月</a></li>
+	<li><a href="/2017/08/">2017年8月</a></li>
+	<li><a href="/2017/07/">2017年7月</a></li>
+	<li><a href="/2017/03/">2017年3月</a></li>
+	<li><a href="/2016/11/">2016年11月</a></li>
+	<li><a href="/2016/09/">2016年9月</a></li>
+	<li><a href="/2016/08/">2016年8月</a></li>
+	<li><a href="/2016/07/">2016年7月</a></li>
+	<li><a href="/2016/05/">2016年5月</a></li>
+	<li><a href="/2016/04/">2016年4月</a></li>
+	<li><a href="/2016/03/">2016年3月</a></li>
+	<li><a href="/2016/02/">2016年2月</a></li>
+	<li><a href="/2016/01/">2016年1月</a></li>
+	<li><a href="/2015/12/">2015年12月</a></li>
+	<li><a href="/2015/11/">2015年11月</a></li>
+	<li><a href="/2015/10/">2015年10月</a></li>
+	<li><a href="/2015/09/">2015年9月</a></li>
+	<li><a href="/2015/08/">2015年8月</a></li>
+	<li><a href="/2015/07/">2015年7月</a></li>
+	<li><a href="/2015/04/">2015年4月</a></li>
+			</ul>
+
+			</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">カテゴリー</h2>
+			<ul>
+					<li class="cat-item cat-item-3">
+<a href="/category/news/">News</a>
+</li>
+	<li class="cat-item cat-item-24">
+<a href="/category/report/" title="イベントレポート用">Report</a>
+</li>
+	<li class="cat-item cat-item-2 current-cat">
+<a aria-current="page" href="/category/tech/">Tech Blog</a>
+</li>
+	<li class="cat-item cat-item-14">
+<a href="/category/%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2%e3%82%bd%e3%83%b3%ef%bc%8f%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd%e3%83%b3/">アイデアソン／ハッカソン</a>
+</li>
+	<li class="cat-item cat-item-8">
+<a href="/category/sanin2016/">参院選2016 データジャーナリズムハッカソン作品一覧</a>
+</li>
+			</ul>
+
+			</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">メタ情報</h2>
+		<ul>
+						<li><a href="/wp-login.php">ログイン</a></li>
+			<li><a href="/feed/">投稿フィード</a></li>
+			<li><a href="/comments/feed/">コメントフィード</a></li>
+
+			<li><a href="https://ja.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</aside>          </div>
+        </section>
+
+    
+
+    <footer class="footer">
+        <img src="/wp-content/themes/e2d3-web/images/logo-footer.png" alt="E2D3" width="79">　Data Visualization for Everyone
+    </footer>
+
+</div>
+<!-- /.wrapper -->
+
+<script>
+(function () {
+    //smoose scroll
+    jQuery('#menu-button').on('click',function(){
+        jQuery('#menu-body').toggleClass('on');
+    })
+    jQuery('.anchor-link').on('click',function(){
+        var speed = 400;
+        var href= jQuery(this).attr("href");
+        var target = jQuery(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        jQuery('body,html').animate({scrollTop:position}, speed, 'swing');
+        return false;
+    })
+}());
+</script>
+<!-- Enter your scripts here --><script type="text/javascript" src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/localhost:8888\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.8" id="wp-embed-js"></script>
+<style>#wpadminbar{
+	top:inherit !important;
+    bottom:0 !important;
+    position: fixed;
+}</style>
+</article>
+</div>
+</div></article>
+</div>
+</div></article>
+</div>
+</div></article>
+</div>
+</div></article>
+</div>
+</div></article>
+</div></section></main>
+</div>
+</body>
+</html>

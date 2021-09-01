@@ -1,0 +1,498 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="/wp-content/themes/e2d3-web/style.css">
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+		<!-- All in One SEO 4.1.3.3 -->
+		<title>『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』 | E2D3</title>
+		<link rel="canonical" href="/2016/07/04/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd/">
+		<meta property="og:site_name" content="E2D3">
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』 | E2D3">
+		<meta property="og:url" content="http://localhost:8888/2016/07/04/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd/">
+		<meta property="og:image" content="http://localhost:8888/wp-content/uploads/2019/05/E2D3_banner1.png">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="article:published_time" content="2016-07-03T17:01:04Z">
+		<meta property="article:modified_time" content="2019-02-17T06:37:42Z">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:domain" content="localhost">
+		<meta name="twitter:title" content="『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』 | E2D3">
+		<meta name="twitter:image" content="http://localhost:8888/wp-content/uploads/2019/05/E2D3_banner1.png">
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"http:\/\/localhost:8888\/#website","url":"http:\/\/localhost:8888\/","name":"E2D3","description":"Data Visualization for All","publisher":{"@id":"http:\/\/localhost:8888\/#organization"}},{"@type":"Organization","@id":"http:\/\/localhost:8888\/#organization","name":"E2D3","url":"http:\/\/localhost:8888\/"},{"@type":"BreadcrumbList","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"http:\/\/localhost:8888\/#listItem","position":"1","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/","name":"ホーム","description":"Data Visualization for All","url":"http:\/\/localhost:8888\/"},"nextItem":"http:\/\/localhost:8888\/2016\/#listItem"},{"@type":"ListItem","@id":"http:\/\/localhost:8888\/2016\/#listItem","position":"2","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/2016\/","name":"2016","url":"http:\/\/localhost:8888\/2016\/"},"nextItem":"http:\/\/localhost:8888\/2016\/07\/#listItem","previousItem":"http:\/\/localhost:8888\/#listItem"},{"@type":"ListItem","@id":"http:\/\/localhost:8888\/2016\/07\/#listItem","position":"3","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/2016\/07\/","name":"July","url":"http:\/\/localhost:8888\/2016\/07\/"},"nextItem":"http:\/\/localhost:8888\/2016\/07\/04\/#listItem","previousItem":"http:\/\/localhost:8888\/2016\/#listItem"},{"@type":"ListItem","@id":"http:\/\/localhost:8888\/2016\/07\/04\/#listItem","position":"4","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/2016\/07\/04\/","name":"3","url":"http:\/\/localhost:8888\/2016\/07\/04\/"},"nextItem":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#listItem","previousItem":"http:\/\/localhost:8888\/2016\/07\/#listItem"},{"@type":"ListItem","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#listItem","position":"5","item":{"@type":"WebPage","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/","name":"『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』","url":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/"},"previousItem":"http:\/\/localhost:8888\/2016\/07\/04\/#listItem"}]},{"@type":"Person","@id":"http:\/\/localhost:8888\/author\/yu-yamamoto\/#author","url":"http:\/\/localhost:8888\/author\/yu-yamamoto\/","name":"YU YAMAMOTO","image":{"@type":"ImageObject","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#authorImage","url":"http:\/\/1.gravatar.com\/avatar\/741f02ffd419c47287e60ce60983c0c6?s=96&d=mm&r=g","width":"96","height":"96","caption":"YU YAMAMOTO"}},{"@type":"WebPage","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#webpage","url":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/","name":"『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』 | E2D3","inLanguage":"ja","isPartOf":{"@id":"http:\/\/localhost:8888\/#website"},"breadcrumb":{"@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#breadcrumblist"},"author":"http:\/\/localhost:8888\/author\/yu-yamamoto\/#author","creator":"http:\/\/localhost:8888\/author\/yu-yamamoto\/#author","image":{"@type":"ImageObject","@id":"http:\/\/localhost:8888\/#mainImage","url":"http:\/\/localhost:8888\/wp-content\/uploads\/2016\/07\/P7022426-1.jpg","width":"735","height":"551"},"primaryImageOfPage":{"@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#mainImage"},"datePublished":"2016-07-03T17:01:04+09:00","dateModified":"2019-02-17T06:37:42+09:00"},{"@type":"Article","@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#article","name":"『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』 | E2D3","headline":"『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』","author":{"@id":"http:\/\/localhost:8888\/author\/yu-yamamoto\/#author"},"publisher":{"@id":"http:\/\/localhost:8888\/#organization"},"datePublished":"2016-07-03T17:01:04+09:00","dateModified":"2019-02-17T06:37:42+09:00","articleSection":"Report, 参院選2016 データジャーナリズムハッカソン作品一覧, リンク","mainEntityOfPage":{"@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#webpage"},"isPartOf":{"@id":"http:\/\/localhost:8888\/2016\/07\/04\/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd\/#webpage"},"image":{"@type":"ImageObject","@id":"http:\/\/localhost:8888\/#articleImage","url":"http:\/\/localhost:8888\/wp-content\/uploads\/2016\/07\/P7022426-1.jpg","width":"735","height":"551"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel="dns-prefetch" href="//s.w.org">
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v7.18.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-64664602-1" type="text/javascript" data-cfasync="false" async></script>
+			<script type="text/javascript" data-cfasync="false">
+				var mi_version = '7.18.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-64664602-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( mi_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-64664602-1', {
+						forceSSL:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+										if ( args.hasOwnProperty(arg) && gaMap.hasOwnProperty(arg) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.8" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="e2d3_widget_style-css" href="/wp-content/themes/e2d3-web/style-child.css" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="/wp-content/plugins/tablepress/css/default.min.css?ver=1.14" type="text/css" media="all">
+<style id="tablepress-default-inline-css" type="text/css">.tablepress-id-3{font-size:6px}</style>
+		<script>
+			/* <![CDATA[ */
+			var rcewpp = {
+				"ajax_url":"http://localhost:8888/wp-admin/admin-ajax.php",
+				"nonce": "915f6276e2",
+				"home_url": "http://localhost:8888"
+			};
+			/* ]]\> */
+		</script>
+		<script type="text/javascript" id="monsterinsights-frontend-script-js-extra">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"http:\/\/localhost:8888","hash_tracking":"false","ua":"UA-64664602-1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=7.18.0" id="monsterinsights-frontend-script-js"></script>
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/posts/15352">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8">
+<link rel="shortlink" href="/?p=15352">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2F2016%2F07%2F04%2F%25e6%2597%25a5%25e6%259c%25ac%25e8%25aa%259e-%25e3%2580%258e%25e5%258f%2582%25e9%2599%25a2%25e9%2581%25b8%25e3%2583%2587%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b8%25e3%2583%25a3%25e3%2583%25bc%25e3%2583%258a%25e3%2583%25aa%25e3%2582%25ba%25e3%2583%25a0%25e3%2583%258f%25e3%2583%2583%25e3%2582%25ab%25e3%2582%25bd%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2F2016%2F07%2F04%2F%25e6%2597%25a5%25e6%259c%25ac%25e8%25aa%259e-%25e3%2580%258e%25e5%258f%2582%25e9%2599%25a2%25e9%2581%25b8%25e3%2583%2587%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b8%25e3%2583%25a3%25e3%2583%25bc%25e3%2583%258a%25e3%2583%25aa%25e3%2582%25ba%25e3%2583%25a0%25e3%2583%258f%25e3%2583%2583%25e3%2582%25ab%25e3%2582%25bd%2F&#038;format=xml">
+<!-- Enter your scripts here -->
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.12';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+    <nav class="top-menu">
+        <div class="menu-body" id="menu-body">
+            <h1 class="menu-home"><a href="/">E2D3</a></h1>
+            <div id="menu-button"><span></span></div>
+            <ul class="menu-list">
+                <li class="body-item menu-about">
+                    <a href="#anchor-about">About E2D3</a>
+                    <ul class="menu-inner">
+                        <li><a href="/e2d3-project-member/">チームメンバー</a></li>
+                        <li><a href="/activity-log/">活動履歴</a></li>
+                        <li><a href="/privacy/">プライバシーポリシー</a></li>
+                    </ul>
+                </li>
+                <li class="body-item menu-product">
+                    <a>Use E2D3 on Excel</a>
+                    <ul class="menu-inner">
+                        <li><a href="/app-install/">インストール方法</a></li>
+                        <li><a href="/howtouse/">使い方</a></li>
+                    </ul>
+                </li>
+                <li class="body-item menu-events">
+                    <a href="#anchor-event" class="anchor-link">Events</a>
+                </li>
+                <li class="body-item menu-language">
+                    <a href="/en/">English</a>
+                </li>
+                <li class="body-item menu-github">
+                    <a href="https://github.com/e2d3/">Github</a>
+                </li>
+                <li class="body-item menu-twitter">
+                    <a href="https://twitter.com/e2d3org">Twitter</a>
+                </li>
+                <li class="body-item menu-facebook">
+                    <a href="https://www.facebook.com/e2d3project/">Facebook</a>
+                </li>
+            </ul>
+        </div>
+<!-- /.menu-body -->
+    </nav><!-- /.main-menu -->
+
+    <main class="main e2d3_child">
+      <section class="module e2d3-page-content">
+        <div class="module-inner">
+
+                      <div class="entry">
+              <h1 class="entry-title">『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</h1>
+
+              
+              <!-- 投稿日 -->
+              <div class="entry-meta">
+
+                (2016/07/04)
+              </div>
+<!-- .entry-meta -->
+                            <div class="entry-content">
+                <p class="p1"><span class="s1">2016年7月2日（土）、参院選を約一週間後に控えたこの日に、関内のさくらWORKSにて<a href="http://e2d3.connpass.com/event/34328/">『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</a>が開催されました。</span></p>
+<p class="p1"><span class="s1">学生も含めた参加者12名は6チームに分かれて、参議院（神奈川県選出）議員選挙の立候補者12名を1チームで2名ずつ担当し、それぞれの候補者の政策や過去の活動を調査し、そのデータの可視化に挑戦しました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15511" src="/wp-content/uploads/2016/07/13566939_10209865402332127_1617924312270646856_n.jpg" alt="13566939_10209865402332127_1617924312270646856_n" width="960" height="640"></p>
+<p class="p1"><span class="s1">主催のE2D3からは今回のイベントの趣旨とデータドリブンなジャーナリズムについて、共催の早稲田大学マニフェスト研究所からはデータベースとなるマニフェストスイッチの背景と利用の仕方について、それぞれ説明を聞いた参加者たちは、緊張の面持ちで、担当する候補者を決定する為のくじ引きに挑みました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15681" src="/wp-content/uploads/2016/07/IMG_8532.jpg" alt="IMG_8532" width="3264" height="2448"></p>
+<p class="p1"><span class="s1">二人一組の6チームは、それぞれ二人の候補者について、マニフェストスイッチや各立候補者の公式ブログ、SNS等で公開されている情報を検索し読み込んでいくところから作業を始めました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15591" src="/wp-content/uploads/2016/07/13599841_1720906388127054_5668158163517728922_n.jpg" alt="13599841_1720906388127054_5668158163517728922_n" width="960" height="540"></p>
+<p class="p1"><span class="s1">午前中に成果物についての大枠でのアイデア出しを終え、昼休憩をとった参加者たちは、これまで収集したデータをどのような形式で示していけば相手に伝わるのか考えながら、データの追加収集やデータ可視化の作業に取り掛かりました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15501" src="/wp-content/uploads/2016/07/IMG_4422-2.jpg" alt="IMG_4422 (2)" width="4032" height="3024"></p>
+<p class="p1"><span class="s1">候補者によって情報の開示形式がバラバラであったり、候補者によってはSNS等を利用していなかったりと、可視化する情報の収集に行き詰まることもありました。過去の政治家としての活動経験が長かったり、複数の媒体を使って後方をしている候補者については、情報の整理のポイントを絞ることに苦慮することがありました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15611" src="/wp-content/uploads/2016/07/13606739_1720906534793706_8217423428461473219_n.jpg" alt="13606739_1720906534793706_8217423428461473219_n" width="960" height="540"></p>
+<p class="p1"><span class="s1">14:20からの中間発表では、チーム同士でペアを組みお互いの進捗や課題を共有しました。他のチームの報告内容に影響を受けたり、相手チームからフィードバックを受ける中でそれまで検討していたものとは違った可視化の方法に気付いたチームもあったようです。</span></p>
+<p class="p1">立候補者が公表している情報を拾って新たにデータベースを作成したチームもあれば、統一フォーマットで立候補者の比較が容易に出来ることを理由に、マニフェストスイッチと神奈川新聞が協力して収集した『参院選神奈川の全12候補の政策データベース（<a href="http://manifestoswitchsangikanagawa.strikingly.com/">マニフェストスイッチ参院選神奈川</a>）』を活用するチームもありました。</p>
+<p class="p1"><span class="s1">参加者の熱意を受けて発表開始時間は20分遅れましたが、メンターの手を借りたりしながら、6チーム全てから作品の発表がありました。</span></p>
+<p class="p3"><a href="/ja/2016/07/teama/"><span class="s2">チームA　担当候補者：佐藤氏、片野氏</span></a><br>
+<span class="&quot;s1”">←チーム名をクリックするとグラフの詳細説明に飛びます</span></p>
+<p class="p1"><span class="s1">E2D3にある二部グラフ（bipartite graph）を使うことで、体験できる政治をイメージ。注目する政策にマウスオーバーすることで、それぞれの立候補者がその政策をどれほど重視しているかがわかる。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/13fa5eb99fabaa0af62fa5ca4a63507c" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/teamb/"><span class="s2">チームB　担当候補者：金子氏、真山氏 </span></a></p>
+<p class="p1"><span class="s1">Yahoo!の日本語解析APIを利用して、マニフェストスイッチにある二人の候補者のマニフェストの内容を数値化。そのデータをE2D3にあるワードクラウドで表現。</span></p>
+<p class="p1"><span class="s1">金子洋一（かねこよういち）54歳　民進　現<br>
+</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/667340a2663b38cdc49c90118368b074" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p>
+<p class="p1"><span class="s1">真山　勇一（まやまゆういち）72歳　民進　前</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/8dbbd6e27eb53ea4e5eedd3b8fa0babc" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0c/"><span class="s2">チームC　担当候補者：清水氏、三浦氏</span></a></p>
+<p class="p1"><span class="s1">マニフェストスイッチ上にあるそれぞれの候補が重視する政策を数値化したデータを、レーダーチャートで表現。</span><span class="s1">現在の与党の政策に対する二人の候補者の考え方についても同じくレーダーチャートで可視化。平均を出してベンチマークと設定した。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/0099231/7914277/5266c27e33153dda3ebc6f6e0625968f" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0d/"><span class="s2">チームD　担当候補者：浅賀氏、丹羽氏</span></a></p>
+<p class="p1"><span class="s1">演説場所をマッピングすることで『いま会いに行ける候補者』として選挙を身近に感じられるよう工夫。それぞれ候補者の重点政策パイチャートとともに掲載。</span></p>
+<p class="p1">↓　佐藤 政則　氏</p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/dd21b916af1d3eba0593509170dbf90a" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　壹岐 愛子　氏<br>
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/5f302a929328f3840ecd7a2929498ed7" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　森 英夫　氏<br>
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/a93b8d71b4babf3456dab17b26a5d080" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　浅賀 由香　氏<br>
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/b38072d3006a093ffc21b2cbab0ee233" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>&nbsp;</p>
+<p>↓　三浦 信祐　氏<br>
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/352e76f609e574c05b0534d6998e1b5c" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　真山 勇一　氏<br>
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/efcf2c212df09de9b41565e441154359" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%8E%E6%97%A5/"><span class="s2">チームE　担当候補者：壱岐氏、森氏</span></a></p>
+<p class="p1"><span class="s1">一目でわかる政策・候補者の考え方を目指し、①３行で示すマニフェスト、②候補者tweet内容やリツイート具合を示すレーダーチャート、③演説場所マッピングの形式で記事を構成。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15371" src="/wp-content/uploads/2016/07/Team_E_thumb.png" alt="Team_E_thumb" width="1698" height="1192"></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0f/"><span class="s2">チームF　担当：中西氏、三原氏</span></a></p>
+<p class="p1"><span class="s1">現在の与党の政策に対して、ポジティブな発言をしているかネガティブな発言をしているかを二部グラフで示す。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/a673960e73f0ae003d991ec4da5a5d99" width="1000" height="600" frameborder="0" scrolling="no"></iframe></p>
+<p class="p1"><span class="s1">発表を以ってイベントは終了。参加者からは、</span></p>
+<p class="p1"><span class="s1">「普段政治を身近に感じることはないが、今回の機会で候補者の政策等について調査する時間ができてよかった。」</span></p>
+<p class="p1">「データを収集できても、可視化する部分が難しかった。」</p>
+<p class="p1">といった声がありました。</p>
+<p class="p1">発表後の懇親会には多くの方が参加。懇親会中には、効果的な可視化ができていたチームに対する『投票』とその『開票』が行なわれました。結果は、E2D3の徒競走グラフで発表。</p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15661" src="/wp-content/uploads/2016/07/P7022467.jpg" alt="P7022467" width="735" height="551"></p>
+<p class="p1">最優秀作品は、Fチームのネガポジ二部グラフでした。</p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15671" src="/wp-content/uploads/2016/07/P7022476.jpg" alt="P7022476" width="735" height="551"></p>
+<p class="p1">7/<wbr>10以降の投票はもちろん、<wbr>意思決定やプレゼンテーションにデータ可視化を活用していきまし<wbr>ょう！</p>
+<p class="p1">最後になりますが、参加者の皆様、会場提供してくださったさくらWORKSさま、共催の早稲田大学マニフェスト研究所さま、取材に来ていただいたメディアの皆様、そしていつもE2D3を助けてくださる皆様、ご協力いただき有難うございました。</p>
+              </div>
+            </div>
+          
+        </div>
+      </section>
+
+      <section class="sidebar-wrap col-md-3 clear-fix content-left-wrap module e2d3-sidebar">
+          <div class="widget-area module-inner">
+            <aside id="search-2" class="widget widget_search"><form method="get" class="search-form" action="/">
+  <label>
+		<span class="screen-reader-text">検索:</span>
+		<input type="search" class="search-field" placeholder="検索 …" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="検索">
+</form>
+</aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h2 class="widget-title">最近の投稿</h2>
+		<ul>
+											<li>
+					<a href="/2021/08/16/announcement-on-ending-support-service-for-e2d3/">Announcement on ending support service for E2D3</a>
+									</li>
+											<li>
+					<a href="/2021/08/14/e2d3-%e7%b5%82%e4%ba%86%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/">E2D3 終了のお知らせ</a>
+									</li>
+											<li>
+					<a href="/2019/05/07/e2d3%e7%99%ba%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e5%8f%af%e8%a6%96%e5%8c%96%e6%9c%ac%e3%81%8c%e5%a5%bd%e8%a9%95%e7%99%ba%e5%a3%b2%e4%b8%ad%ef%bc%81/">E2D3発のデータ可視化本が好評発売中！</a>
+									</li>
+											<li>
+					<a href="/2019/02/16/2%e6%9c%8816%e6%97%a5-%e3%82%82%e3%81%8f%e3%82%82%e3%81%8f%e4%bc%9a-vol-31%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%99/">2月16日 もくもく会 vol. 31を開催します</a>
+									</li>
+											<li>
+					<a href="/2018/01/02/exhibit-at-ntt-tech-conference-2/">NTT Tech Conference #2への参加について</a>
+									</li>
+					</ul>
+
+		</aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">アーカイブ</h2>
+			<ul>
+					<li><a href="/2021/08/">2021年8月</a></li>
+	<li><a href="/2019/05/">2019年5月</a></li>
+	<li><a href="/2019/02/">2019年2月</a></li>
+	<li><a href="/2018/01/">2018年1月</a></li>
+	<li><a href="/2017/11/">2017年11月</a></li>
+	<li><a href="/2017/08/">2017年8月</a></li>
+	<li><a href="/2017/07/">2017年7月</a></li>
+	<li><a href="/2017/03/">2017年3月</a></li>
+	<li><a href="/2016/11/">2016年11月</a></li>
+	<li><a href="/2016/09/">2016年9月</a></li>
+	<li><a href="/2016/08/">2016年8月</a></li>
+	<li><a href="/2016/07/">2016年7月</a></li>
+	<li><a href="/2016/05/">2016年5月</a></li>
+	<li><a href="/2016/04/">2016年4月</a></li>
+	<li><a href="/2016/03/">2016年3月</a></li>
+	<li><a href="/2016/02/">2016年2月</a></li>
+	<li><a href="/2016/01/">2016年1月</a></li>
+	<li><a href="/2015/12/">2015年12月</a></li>
+	<li><a href="/2015/11/">2015年11月</a></li>
+	<li><a href="/2015/10/">2015年10月</a></li>
+	<li><a href="/2015/09/">2015年9月</a></li>
+	<li><a href="/2015/08/">2015年8月</a></li>
+	<li><a href="/2015/07/">2015年7月</a></li>
+	<li><a href="/2015/04/">2015年4月</a></li>
+			</ul>
+
+			</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">カテゴリー</h2>
+			<ul>
+					<li class="cat-item cat-item-3">
+<a href="/category/news/">News</a>
+</li>
+	<li class="cat-item cat-item-24">
+<a href="/category/report/" title="イベントレポート用">Report</a>
+</li>
+	<li class="cat-item cat-item-2">
+<a href="/category/tech/">Tech Blog</a>
+</li>
+	<li class="cat-item cat-item-14">
+<a href="/category/%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a2%e3%82%bd%e3%83%b3%ef%bc%8f%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd%e3%83%b3/">アイデアソン／ハッカソン</a>
+</li>
+	<li class="cat-item cat-item-8">
+<a href="/category/sanin2016/">参院選2016 データジャーナリズムハッカソン作品一覧</a>
+</li>
+			</ul>
+
+			</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">メタ情報</h2>
+		<ul>
+						<li><a href="/wp-login.php">ログイン</a></li>
+			<li><a href="/feed/">投稿フィード</a></li>
+			<li><a href="/comments/feed/">コメントフィード</a></li>
+
+			<li><a href="https://ja.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</aside>          </div>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <img src="/wp-content/themes/e2d3-web/images/logo-footer.png" alt="E2D3" width="79">　Data Visualization for Everyone
+    </footer>
+
+</div>
+<!-- /.wrapper -->
+
+<script>
+(function () {
+    //smoose scroll
+    jQuery('#menu-button').on('click',function(){
+        jQuery('#menu-body').toggleClass('on');
+    })
+    jQuery('.anchor-link').on('click',function(){
+        var speed = 400;
+        var href= jQuery(this).attr("href");
+        var target = jQuery(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        jQuery('body,html').animate({scrollTop:position}, speed, 'swing');
+        return false;
+    })
+}());
+</script>
+<!-- Enter your scripts here --><script type="text/javascript" src="/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/localhost:8888\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.8" id="wp-embed-js"></script>
+<style>#wpadminbar{
+	top:inherit !important;
+    bottom:0 !important;
+    position: fixed;
+}</style>
+</body>
+</html>

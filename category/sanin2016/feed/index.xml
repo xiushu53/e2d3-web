@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>参院選2016 データジャーナリズムハッカソン作品一覧 | E2D3</title>
+	<atom:link href="http://localhost/category/sanin2016/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Data Visualization for All</description>
+	<lastBuildDate>Sun, 17 Feb 2019 06:39:33 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</title>
+		<link>/2016/07/04/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sun, 03 Jul 2016 17:01:04 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=15352</guid>
+
+					<description><![CDATA[<p>2016年7月2日（土）、参院選を約一週間後に控えたこの日に、関内のさくらWORKSにて『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』が開催されました。 学生も含めた参加者12名は6チームに分か&#8230;</p>
+<p>The post <a href="/2016/07/04/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd/">『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p class="p1"><span class="s1">2016年7月2日（土）、参院選を約一週間後に控えたこの日に、関内のさくらWORKSにて<a href="http://e2d3.connpass.com/event/34328/">『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</a>が開催されました。</span></p>
+<p class="p1"><span class="s1">学生も含めた参加者12名は6チームに分かれて、参議院（神奈川県選出）議員選挙の立候補者12名を1チームで2名ずつ担当し、それぞれの候補者の政策や過去の活動を調査し、そのデータの可視化に挑戦しました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15511" src="/wp-content/uploads/2016/07/13566939_10209865402332127_1617924312270646856_n.jpg" alt="13566939_10209865402332127_1617924312270646856_n" width="960" height="640" /></p>
+<p class="p1"><span class="s1">主催のE2D3からは今回のイベントの趣旨とデータドリブンなジャーナリズムについて、共催の早稲田大学マニフェスト研究所からはデータベースとなるマニフェストスイッチの背景と利用の仕方について、それぞれ説明を聞いた参加者たちは、緊張の面持ちで、担当する候補者を決定する為のくじ引きに挑みました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15681" src="/wp-content/uploads/2016/07/IMG_8532.jpg" alt="IMG_8532" width="3264" height="2448" /></p>
+<p class="p1"><span class="s1">二人一組の6チームは、それぞれ二人の候補者について、マニフェストスイッチや各立候補者の公式ブログ、SNS等で公開されている情報を検索し読み込んでいくところから作業を始めました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15591" src="/wp-content/uploads/2016/07/13599841_1720906388127054_5668158163517728922_n.jpg" alt="13599841_1720906388127054_5668158163517728922_n" width="960" height="540" /></p>
+<p class="p1"><span class="s1">午前中に成果物についての大枠でのアイデア出しを終え、昼休憩をとった参加者たちは、これまで収集したデータをどのような形式で示していけば相手に伝わるのか考えながら、データの追加収集やデータ可視化の作業に取り掛かりました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15501" src="/wp-content/uploads/2016/07/IMG_4422-2.jpg" alt="IMG_4422 (2)" width="4032" height="3024" /></p>
+<p class="p1"><span class="s1">候補者によって情報の開示形式がバラバラであったり、候補者によってはSNS等を利用していなかったりと、可視化する情報の収集に行き詰まることもありました。過去の政治家としての活動経験が長かったり、複数の媒体を使って後方をしている候補者については、情報の整理のポイントを絞ることに苦慮することがありました。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15611" src="/wp-content/uploads/2016/07/13606739_1720906534793706_8217423428461473219_n.jpg" alt="13606739_1720906534793706_8217423428461473219_n" width="960" height="540" /></p>
+<p class="p1"><span class="s1">14:20からの中間発表では、チーム同士でペアを組みお互いの進捗や課題を共有しました。他のチームの報告内容に影響を受けたり、相手チームからフィードバックを受ける中でそれまで検討していたものとは違った可視化の方法に気付いたチームもあったようです。</span></p>
+<p class="p1">立候補者が公表している情報を拾って新たにデータベースを作成したチームもあれば、統一フォーマットで立候補者の比較が容易に出来ることを理由に、マニフェストスイッチと神奈川新聞が協力して収集した『参院選神奈川の全12候補の政策データベース（<a href="http://manifestoswitchsangikanagawa.strikingly.com/">マニフェストスイッチ参院選神奈川</a>）』を活用するチームもありました。</p>
+<p class="p1"><span class="s1">参加者の熱意を受けて発表開始時間は20分遅れましたが、メンターの手を借りたりしながら、6チーム全てから作品の発表がありました。</span></p>
+<p class="p3"><a href="/ja/2016/07/teama/"><span class="s2">チームA　担当候補者：佐藤氏、片野氏</span></a><br />
+<span class="&quot;s1”">←チーム名をクリックするとグラフの詳細説明に飛びます</span></p>
+<p class="p1"><span class="s1">E2D3にある二部グラフ（bipartite graph）を使うことで、体験できる政治をイメージ。注目する政策にマウスオーバーすることで、それぞれの立候補者がその政策をどれほど重視しているかがわかる。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/13fa5eb99fabaa0af62fa5ca4a63507c" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/teamb/"><span class="s2">チームB　担当候補者：金子氏、真山氏 </span></a></p>
+<p class="p1"><span class="s1">Yahoo!の日本語解析APIを利用して、マニフェストスイッチにある二人の候補者のマニフェストの内容を数値化。そのデータをE2D3にあるワードクラウドで表現。</span></p>
+<p class="p1"><span class="s1">金子洋一（かねこよういち）54歳　民進　現<br />
+</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/667340a2663b38cdc49c90118368b074" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p>
+<p class="p1"><span class="s1">真山　勇一（まやまゆういち）72歳　民進　前</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/8dbbd6e27eb53ea4e5eedd3b8fa0babc" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0c/ "><span class="s2">チームC　担当候補者：清水氏、三浦氏</span></a></p>
+<p class="p1"><span class="s1">マニフェストスイッチ上にあるそれぞれの候補が重視する政策を数値化したデータを、レーダーチャートで表現。</span><span class="s1">現在の与党の政策に対する二人の候補者の考え方についても同じくレーダーチャートで可視化。平均を出してベンチマークと設定した。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/0099231/7914277/5266c27e33153dda3ebc6f6e0625968f" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0d/ "><span class="s2">チームD　担当候補者：浅賀氏、丹羽氏</span></a></p>
+<p class="p1"><span class="s1">演説場所をマッピングすることで『いま会いに行ける候補者』として選挙を身近に感じられるよう工夫。それぞれ候補者の重点政策パイチャートとともに掲載。</span></p>
+<p class="p1">↓　佐藤 政則　氏</p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/dd21b916af1d3eba0593509170dbf90a" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　壹岐 愛子　氏<br />
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/5f302a929328f3840ecd7a2929498ed7" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　森 英夫　氏<br />
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/a93b8d71b4babf3456dab17b26a5d080" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　浅賀 由香　氏<br />
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/b38072d3006a093ffc21b2cbab0ee233" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>&nbsp;</p>
+<p>↓　三浦 信祐　氏<br />
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/352e76f609e574c05b0534d6998e1b5c" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p>↓　真山 勇一　氏<br />
+<iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/efcf2c212df09de9b41565e441154359" width="100%" height="400" frameborder="0" scrolling="no"></iframe></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E6%97%A5%E6%9C%AC%E3%81%AE%E6%98%8E%E6%97%A5/"><span class="s2">チームE　担当候補者：壱岐氏、森氏</span></a></p>
+<p class="p1"><span class="s1">一目でわかる政策・候補者の考え方を目指し、①３行で示すマニフェスト、②候補者tweet内容やリツイート具合を示すレーダーチャート、③演説場所マッピングの形式で記事を構成。</span></p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15371" src="/wp-content/uploads/2016/07/Team_E_thumb.png" alt="Team_E_thumb" width="1698" height="1192" /></p>
+<p class="p3"><a href="/ja/2016/07/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E5%8F%82%E9%99%A2%E9%81%B8%E3%83%81%E3%83%BC%E3%83%A0f/"><span class="s2">チームF　担当：中西氏、三原氏</span></a></p>
+<p class="p1"><span class="s1">現在の与党の政策に対して、ポジティブな発言をしているかネガティブな発言をしているかを二部グラフで示す。</span></p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/a673960e73f0ae003d991ec4da5a5d99" width="1000" height="600" frameborder="0" scrolling="no"></iframe></p>
+<p class="p1"><span class="s1">発表を以ってイベントは終了。参加者からは、</span></p>
+<p class="p1"><span class="s1">「普段政治を身近に感じることはないが、今回の機会で候補者の政策等について調査する時間ができてよかった。」</span></p>
+<p class="p1">「データを収集できても、可視化する部分が難しかった。」</p>
+<p class="p1">といった声がありました。</p>
+<p class="p1">発表後の懇親会には多くの方が参加。懇親会中には、効果的な可視化ができていたチームに対する『投票』とその『開票』が行なわれました。結果は、E2D3の徒競走グラフで発表。</p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15661" src="/wp-content/uploads/2016/07/P7022467.jpg" alt="P7022467" width="735" height="551" /></p>
+<p class="p1">最優秀作品は、Fチームのネガポジ二部グラフでした。</p>
+<p class="p1"><img loading="lazy" class="alignnone size-full wp-image-15671" src="/wp-content/uploads/2016/07/P7022476.jpg" alt="P7022476" width="735" height="551" /></p>
+<p class="p1">7/<wbr />10以降の投票はもちろん、<wbr />意思決定やプレゼンテーションにデータ可視化を活用していきまし<wbr />ょう！</p>
+<p class="p1">最後になりますが、参加者の皆様、会場提供してくださったさくらWORKSさま、共催の早稲田大学マニフェスト研究所さま、取材に来ていただいたメディアの皆様、そしていつもE2D3を助けてくださる皆様、ご協力いただき有難うございました。</p><p>The post <a href="/2016/07/04/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e3%80%8e%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%87%e3%83%bc%e3%82%bf%e3%82%b8%e3%83%a3%e3%83%bc%e3%83%8a%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%8f%e3%83%83%e3%82%ab%e3%82%bd/">『参院選データジャーナリズムハッカソン−立候補者の違いを可視化しよう！』</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>(日本語) 日本の明日</title>
+		<link>/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e6%97%a5%e6%9c%ac%e3%81%ae%e6%98%8e%e6%97%a5/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2016 09:13:14 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13601</guid>
+
+					<description><![CDATA[<p>&#160; 名前 森　英夫（44） 壱岐　愛子（30） 政党 社民党  幸福実現党 略歴 看護師（20年所属） 元OA機器メーカー営業職 政治家を志した契機 東日本大震災のボランティア 幸福実現党の考えに感化して マニ&#8230;</p>
+<p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e6%97%a5%e6%9c%ac%e3%81%ae%e6%98%8e%e6%97%a5/">(日本語) 日本の明日</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<table style="width: 715px; height: 296px;">
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;"></td>
+<td style="width: 231px; height: 24px;"><img loading="lazy" class="wp-image-13711 aligncenter" src="/wp-content/uploads/2016/07/morita.jpg" alt="morita" width="125" height="136" /><b></b><i></i><u></u></td>
+<td style="width: 230px; height: 24px;"><img loading="lazy" class="wp-image-13701 aligncenter" src="/wp-content/uploads/2016/07/aiko-240x300.jpg" alt="aiko" width="125" height="156" /><b></b><i></i><u></u></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;">名前</td>
+<td style="width: 231px; height: 24px;">森　英夫（44）</td>
+<td style="width: 230px; height: 24px;">壱岐　愛子（30）</td>
+</tr>
+<tr style="height: 24.5px;">
+<td style="width: 231px; height: 24.5px;">政党</td>
+<td style="width: 231px; height: 24.5px;">社民党</td>
+<td style="width: 230px; height: 24.5px;"> 幸福実現党</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;">略歴</td>
+<td style="width: 231px; height: 24px;">看護師（20年所属）</td>
+<td style="width: 230px; height: 24px;">元OA機器メーカー営業職</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;">政治家を志した契機</td>
+<td style="width: 231px; height: 24px;">東日本大震災のボランティア</td>
+<td style="width: 230px; height: 24px;">幸福実現党の考えに感化して</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;"><strong>マニフェスト</strong></td>
+<td style="width: 231px; height: 24px;">原発廃止</p>
+<p>子育て世代を大切に</p>
+<p>軍備縮小</td>
+<td style="width: 230px; height: 24px;">減税（消費税５％）</p>
+<p>マイナンバー制度廃止</p>
+<p>自主防衛</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 231px; height: 24px;"><strong>使用メディア</strong></td>
+<td style="width: 231px; height: 24px;">twitter⇨<a href="https://twitter.com/mori_hideo_">https://twitter.com/mori_hideo_</a></p>
+<p>公式サイト⇨<a href="http://moriyokohama.web.fc2.com/menu7.html">http://moriyokohama.web.fc2.com/menu7.html</a></p>
+<p>森英夫 応援団Ameba⇨<a href="http://profile.ameba.jp/hello-mori-hideo/">http://profile.ameba.jp/hello-mori-hideo/</a></p>
+<p>Youtube⇨<a href="https://www.youtube.com/channel/UC8lFznTK228Wh2EW57ub4mg">https://www.youtube.com/channel/UC8lFznTK228Wh2EW57ub4mg</a></p>
+<p><iframe loading="lazy" src="//www.youtube.com/embed/77sB7T5SEE8" width="560" height="314"></iframe></td>
+<td style="width: 230px; height: 24px;">twitter⇨<a href="https://twitter.com/ikiaiko">https://twitter.com/ikiaiko</a></p>
+<p>公式サイト⇨<a href="http://iki-aiko.net/">http://iki-aiko.net/</a></p>
+<p>Ameba⇨<a href="http://profile.ameba.jp/ikiaiko/">http://profile.ameba.jp/ikiaiko/</a></td>
+</tr>
+</tbody>
+</table>
+<p>森　英夫氏のツイート内容　　　　　　　　　　　　　　　　　　壱岐愛子氏のツイート内容</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-14652" src="/wp-content/uploads/2016/07/mori-300x256.png" alt="mori" width="300" height="256" /><img loading="lazy" class="size-medium wp-image-14731 alignright" src="/wp-content/uploads/2016/07/ikiiki-300x237.jpg" alt="ikiiki" width="300" height="237" /></p>
+<p>森英夫氏（青）　壱岐愛子氏（赤）演説場所</p>
+<p><img loading="lazy" class=" wp-image-14791 aligncenter" src="/wp-content/uploads/2016/07/enzetu-300x193.jpg" alt="enzetu" width="912" height="587" /></p>
+<p>&nbsp;</p>
+<p>森英夫氏　マニフェストスイッチ</p>
+<p><a href="https://area34.smp.ne.jp/area/card/14892/5eDP2g/M?S=qjlar0njt0k">https://area34.smp.ne.jp/area/card/14892/5eDP2g/M?S=qjlar0njt0k</a></p>
+<p>壱岐愛子氏　マニフェストスイッチ</p>
+<p><a href="https://area34.smp.ne.jp/area/card/14892/Djr2fg/M?S=qjlar0oal0k">https://area34.smp.ne.jp/area/card/14892/Djr2fg/M?S=qjlar0oal0k</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p><p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e6%97%a5%e6%9c%ac%e3%81%ae%e6%98%8e%e6%97%a5/">(日本語) 日本の明日</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>(日本語) 神奈川県参院候補者を比較してみた　</title>
+		<link>/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0d/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2016 08:29:38 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13231</guid>
+
+					<description><![CDATA[<p>今日会いに行ける！神奈川参院選候補者 &#160; マニフェストスイッチの政策重点度を使ってE2D3で円グラフにしました。 気になった候補はスケジュールと場所情報をチェックして、実際に会いに行こう。 &#160; 参考サ&#8230;</p>
+<p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0d/">(日本語) 神奈川県参院候補者を比較してみた　</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h1>今日会いに行ける！神奈川参院選候補者</h1>
+<p>&nbsp;</p>
+<h2>マニフェストスイッチの政策重点度を使ってE2D3で円グラフにしました。<br />
+気になった候補はスケジュールと場所情報をチェックして、実際に会いに行こう。</h2>
+<p>&nbsp;</p>
+<h3>参考サイト：<br />
+マニフェストスイッチ(政策重点度)<br />
+http://www.yomiuri.co.jp/election/sangiin/2016/kouji/ye14.html<br />
+http://vote.mainichi.jp/24san/<br />
+各候補者ブログ</h3>
+<p>&nbsp;</p>
+<div style="width: 100%; overflow: auto;">
+<table style="width: 1496px;">
+<tbody>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 34px;"></td>
+<th style="height: 24px; width: 106px;">佐藤 政則</th>
+<th style="height: 24px; width: 106px;">中西 健治</th>
+<th style="height: 24px; width: 107px;">片野 英司</th>
+<th style="height: 24px; width: 109px;">壹岐 愛子</th>
+<th style="height: 24px; width: 107px;">清水 太一</th>
+<th style="height: 24px; width: 113px;">森 英夫</th>
+<th style="height: 24px; width: 108px;">浅賀 由香</th>
+<th style="height: 24px; width: 108px;">丹羽 大</th>
+<th style="height: 24px; width: 120px;">三浦 信祐</th>
+<th style="height: 24px; width: 132px;">真山 勇一</th>
+<th style="height: 24px; width: 110px;">金子 洋一</th>
+<th style="height: 24px; width: 110px;">三原じゅん子</th>
+</tr>
+<tr style="height: 181px;">
+<th style="height: 181px; width: 34px;"></th>
+<td style="height: 181px; width: 106px;"><img loading="lazy" class="size-full wp-image-14091 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX019K_0.jpg" alt="YRYE14XXXXXX019K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 106px;"><img loading="lazy" class="size-full wp-image-13991 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX001K_0.jpg" alt="YRYE14XXXXXX001K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 107px;"><img loading="lazy" class="size-full wp-image-14081 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX018K_0.jpg" alt="YRYE14XXXXXX018K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 109px;"><img loading="lazy" class="size-full wp-image-14041 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX014K_0.jpg" alt="YRYE14XXXXXX014K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 107px;"><img loading="lazy" class="size-full wp-image-14101 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX020K_0.jpg" alt="YRYE14XXXXXX020K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 113px;"><img loading="lazy" class="size-full wp-image-14051 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX015K_0.jpg" alt="YRYE14XXXXXX015K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 108px;"><img loading="lazy" class="size-full wp-image-14031 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX013K_0.jpg" alt="YRYE14XXXXXX013K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 108px;"><img loading="lazy" class="size-full wp-image-14061 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX016K_0.jpg" alt="YRYE14XXXXXX016K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 120px;"><img loading="lazy" class="size-full wp-image-14021 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX012K_0.jpg" alt="YRYE14XXXXXX012K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 132px;"><img loading="lazy" class="size-full wp-image-14071 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX017K_0.jpg" alt="YRYE14XXXXXX017K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 110px;"><img loading="lazy" class="size-full wp-image-14001 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX004K_0.jpg" alt="YRYE14XXXXXX004K_0" width="170" height="200" /></td>
+<td style="height: 181px; width: 110px;"><img loading="lazy" class="size-full wp-image-14011 aligncenter" src="/wp-content/uploads/2016/07/YRYE14XXXXXX011K_0.jpg" alt="YRYE14XXXXXX011K_0" width="170" height="200" /></td>
+</tr>
+<tr style="height: 48px;">
+<th style="height: 48px; width: 34px;">年齢</th>
+<td style="text-align: center; height: 48px; width: 106px;">48</td>
+<td style="text-align: center; height: 48px; width: 152px;">52</td>
+<td style="text-align: center; height: 48px; width: 107px;">45</td>
+<td style="text-align: center; height: 48px; width: 109px;">30</td>
+<td style="text-align: center; height: 48px; width: 107px;">34</td>
+<td style="text-align: center; height: 48px; width: 113px;">44</td>
+<td style="text-align: center; height: 48px; width: 108px;">36</td>
+<td style="text-align: center; height: 48px; width: 108px;">39</td>
+<td style="text-align: center; height: 48px; width: 120px;">41</td>
+<td style="text-align: center; height: 48px; width: 132px;">72</td>
+<td style="height: 48px; text-align: center; width: 110px;">54</td>
+<td style="height: 48px; text-align: center; width: 110px;">51</td>
+</tr>
+<tr style="height: 48px;">
+<th style="height: 48px; width: 34px;">政党</th>
+<td style="height: 48px; text-align: center; width: 106px;">無所属</td>
+<td style="height: 48px; text-align: center; width: 152px;">無所属</td>
+<td style="height: 48px; text-align: center; width: 107px;">諸派</td>
+<td style="height: 48px; text-align: center; width: 109px;">諸派</td>
+<td style="height: 48px; text-align: center; width: 107px;">日本のこころを大切にする党</td>
+<td style="height: 48px; text-align: center; width: 113px;">社民党</td>
+<td style="text-align: center; height: 48px; width: 108px;">共産党</td>
+<td style="text-align: center; height: 48px; width: 108px;">おおさか維新の会</td>
+<td style="height: 48px; text-align: center; width: 120px;">公民等</td>
+<td style="height: 48px; text-align: center; width: 132px;">民進党</td>
+<td style="height: 48px; text-align: center; width: 110px;">民進党</td>
+<td style="height: 48px; text-align: center; width: 110px;">自民党</td>
+</tr>
+<tr style="height: 72px;">
+<th style="height: 72px; width: 34px;">出身地</th>
+<td style="height: 72px; text-align: center; width: 106px;">兵庫県</td>
+<td style="height: 72px; text-align: center; width: 152px;">東京都</td>
+<td style="height: 72px; text-align: center; width: 107px;">神奈川県相模原市</td>
+<td style="height: 72px; text-align: center; width: 109px;">神奈川県川崎市</td>
+<td style="height: 72px; text-align: center; width: 107px;">神奈川県綾瀬市</td>
+<td style="height: 72px; text-align: center; width: 113px;">東京都</td>
+<td style="height: 72px; text-align: center; width: 108px;">神奈川県横浜市鶴見区</td>
+<td style="text-align: center; height: 72px; width: 108px;">愛知県名古屋市</td>
+<td style="height: 72px; text-align: center; width: 120px;">宮城県仙台市</td>
+<td style="height: 72px; text-align: center; width: 132px;">東京都</td>
+<td style="height: 72px; text-align: center; width: 110px;">神奈川県横浜市</td>
+<td style="height: 72px; text-align: center; width: 110px;">東京都</td>
+</tr>
+<tr style="height: 48px;">
+<th style="height: 48px; width: 34px;">学歴</th>
+<td style="height: 48px; text-align: center; width: 106px;">関西外語大外語学部卒</td>
+<td style="height: 48px; text-align: center; width: 152px;">東京大学法学部卒</td>
+<td style="height: 48px; text-align: center; width: 107px;">横浜商高別科</td>
+<td style="height: 48px; text-align: center; width: 109px;">多摩大経営情報学部卒</td>
+<td style="height: 48px; text-align: center; width: 107px;">関東学院大経済学部卒</td>
+<td style="height: 48px; text-align: center; width: 113px;">放送大学卒</td>
+<td style="text-align: center; height: 48px; width: 108px;">筑波大卒</td>
+<td style="text-align: center; height: 48px; width: 108px;">復旦大学卒</td>
+<td style="height: 48px; text-align: center; width: 120px;">千葉工大工学部卒</td>
+<td style="height: 48px; text-align: center; width: 132px;">東京教育大学文学部卒</td>
+<td style="height: 48px; text-align: center; width: 110px;">東大経済学部卒</td>
+<td style="height: 48px; text-align: center; width: 110px;">東京都明大付属中野高中退</td>
+</tr>
+<tr style="height: 96px;">
+<th style="height: 96px; width: 34px;">肩書</th>
+<td style="height: 96px; text-align: center; width: 106px;">元介護施設職員</td>
+<td style="height: 96px; text-align: center; width: 152px;">参院財政金融委員（元）みんなの党政調会長、証券会社副社長</td>
+<td style="height: 96px; text-align: center; width: 107px;">支持政党なし県代表、美容室店主</td>
+<td style="height: 96px; width: 109px; text-align: center;">幸福実現党県副代表（元）事務機器会社社員</td>
+<td style="height: 96px; width: 107px; text-align: center;">清掃会社社員</td>
+<td style="height: 96px; width: 113px; text-align: center;">党県福祉委員長、看護師、就労支援ＮＰＯ理事</td>
+<td style="text-align: center; height: 96px; width: 108px;">党県常任委員</td>
+<td style="text-align: center; height: 96px; width: 108px;">元博報堂関連広告代理店社員</td>
+<td style="height: 96px; width: 120px; text-align: center;">党国際局次長、党青年局次長（元）防衛大准教授</td>
+<td style="height: 96px; width: 132px; text-align: center;">（元）維新の党広報局長、東京都調布市議、キャスター</td>
+<td style="height: 96px; width: 110px; text-align: center;">参院国土交通委員長（元）民主党政調副会長</td>
+<td style="height: 96px; width: 110px; text-align: center;">参院厚労委員長</td>
+</tr>
+<tr>
+<th style="width: 34px;">改憲</th>
+<td style="width: 106px;">○</td>
+<td style="width: 152px;">○</td>
+<td style="width: 107px;">無回答</td>
+<td style="width: 109px;">○</td>
+<td style="width: 107px;">○</td>
+<td style="width: 113px;">×</td>
+<td style="width: 108px;">×</td>
+<td style="width: 108px;">○</td>
+<td style="width: 120px;">○</td>
+<td style="width: 132px;">×</td>
+<td style="width: 110px;">×</td>
+<td style="width: 110px;">○</td>
+</tr>
+<tr>
+<th style="width: 34px;">9条改正</th>
+<td style="width: 106px;">○</td>
+<td style="width: 152px;">○</td>
+<td style="width: 107px;">無回答</td>
+<td style="width: 109px;">○</td>
+<td style="width: 107px;">○</td>
+<td style="width: 113px;">×</td>
+<td style="width: 108px;">×</td>
+<td style="width: 108px;">○</td>
+<td style="width: 120px;">○</td>
+<td style="width: 132px;">×</td>
+<td style="width: 110px;">×</td>
+<td style="width: 110px;">○</td>
+</tr>
+<tr>
+<th style="width: 34px;">TPP</th>
+<td style="width: 106px;">×</td>
+<td style="width: 152px;">○</td>
+<td style="width: 107px;">無回答</td>
+<td style="width: 109px;">○</td>
+<td style="width: 107px;">○</td>
+<td style="width: 113px;">×</td>
+<td style="width: 108px;">×</td>
+<td style="width: 108px;">○</td>
+<td style="width: 120px;">○</td>
+<td style="width: 132px;">×</td>
+<td style="width: 110px;"></td>
+<td style="width: 110px;">○</td>
+</tr>
+<tr>
+<th style="width: 34px; text-align: center;">政策重点度</th>
+<td style="width: 106px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/dd21b916af1d3eba0593509170dbf90a" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 152px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 107px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 109px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/5f302a929328f3840ecd7a2929498ed7" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 107px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 113px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/a93b8d71b4babf3456dab17b26a5d080" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 108px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/b38072d3006a093ffc21b2cbab0ee233" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 108px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 120px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/352e76f609e574c05b0534d6998e1b5c" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 132px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/efcf2c212df09de9b41565e441154359" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 110px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+<td style="width: 110px;"><iframe loading="lazy" src="https://s.e2d3.org/c3e59fe/9ae01c9/26d7b2a10998c6ad4723f3a0966724ef" width="100%" height="400" frameborder="0" scrolling="no"></iframe></td>
+</tr>
+<tr>
+<th>ここで会える(7/2)</th>
+<td>＊17時ごろ　湘南台駅周辺で、街頭演説をさせていただきます。</td>
+<td>14:30 新杉田駅（らびすた新杉田）前</td>
+<td></td>
+<td>16:20 逗子商店街回り</td>
+<td></td>
+<td>18:20～19:00藤沢駅北口</td>
+<td>▼17:00～川崎駅東口ルフロン前</td>
+<td>19時00分〜 川崎駅東口 街頭活動(応援:城田純,YOUSUKE)</td>
+<td>川崎駅16:30〜17:00&lt;</td>
+<td>19:00JR武蔵溝ノ口駅　★古賀茂明さん、江田代表代行</td>
+<td>12:00 鎌倉駅</td>
+<td>19:00 日吉駅西口</td>
+</tr>
+<tr>
+<th></th>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+<td>
+<p style="margin: 0px; font-size: 12px; font-family: Helvetica;"><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8221076594486!2d139.621429!3d35.467655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x443025838b0ce6c6!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1437778058508" width="100%" height="350" frameborder="0"></iframe></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div><p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0d/">(日本語) 神奈川県参院候補者を比較してみた　</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Team A: Comparing Candidates and Policy, the Overview of Fresh Candidates.</title>
+		<link>/2016/07/02/teama/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2016 07:55:43 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13151</guid>
+
+					<description><![CDATA[<p>政治家と政策の比較グラフ、新人候補２人の政策概要 &#60;マニュフェストスイッチ＞ マニュフェストスイッチの参議院選挙の情報をグラフ化しました。マニュフェストスイッチは、早稲田大学マニュフェスト研究所を含む学術団体によっ&#8230;</p>
+<p>The post <a href="/2016/07/02/teama/">Team A: Comparing Candidates and Policy, the Overview of Fresh Candidates.</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>政治家と政策の比較グラフ、新人候補２人の政策概要</p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/13fa5eb99fabaa0af62fa5ca4a63507c" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p>&lt;マニュフェストスイッチ＞<br />
+マニュフェストスイッチの参議院選挙の情報をグラフ化しました。マニュフェストスイッチは、早稲田大学マニュフェスト研究所を含む学術団体によって作成された候補者の選挙に関するデータです。各候補者の政策比重についてグラフ化しています。浅賀由香、清水太一、片野英司、金子洋一候補については、未回答により０％表示となっています。</p>
+<p>＜片野英司候補＞<br />
+片野英司候補は政党「支持政党なし」所属の新人です。片野候補の政策はダイレクトに党員の意志が反映されます。なぜなら各法案ごとに党員によるインターネット投票の成否を募るからです。これによってより直接民主制に近い政治参加を可能としています。</p>
+<p>＜佐藤政則候補＞<br />
+佐藤政則候補は無所属の新人です。社会保障の一元化、日米韓比台の安全保障上の条約、固定相場制など明確な政策を打ち出しています。</p>
+<p>http://manifestoswitchsangikanagawa.strikingly.com/</p><p>The post <a href="/2016/07/02/teama/">Team A: Comparing Candidates and Policy, the Overview of Fresh Candidates.</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>(日本語) 参院選チームF</title>
+		<link>/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0f/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2016 07:41:01 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13261</guid>
+
+					<description><![CDATA[<p>「アベノミクスにポジティブ？　ネガティブ？　参院選2016 神奈川県選挙区編」 1. 概要 立候補者のtwitterにおける発言を集めました（2016/1/1-7/2）。 「アベノミクス」に対する立候補者の意見を読み解く&#8230;</p>
+<p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0f/">(日本語) 参院選チームF</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p><strong>「アベノミクスにポジティブ？　ネガティブ？　参院選2016 神奈川県選挙区編」</strong></p>
+<p>1. 概要</p>
+<ol>
+<li>立候補者のtwitterにおける発言を集めました（2016/1/1-7/2）。</li>
+<li>「アベノミクス」に対する立候補者の意見を読み解くために、「アベノミクス」に関する発言を極性分析（ポジティブ、フラット、ネガティブの３分類）しました。</li>
+<li>極性分析結果をE2D3の<a href="https://a.e2d3.org/chart.html#kurashiki-landmark-chart!js!csv">「kurashiki-landmark-chartテンプレート」</a>を使って可視化しました。</li>
+</ol>
+<hr />
+<p>2. （解析未終了のため、擬似データによる）結果</p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/a012487/44136fa/a673960e73f0ae003d991ec4da5a5d99" width="1000" height="600" frameborder="0" scrolling="no"></iframe></p>
+<p>&nbsp;</p>
+<hr />
+<p>3. 材料</p>
+<table width="379">
+<tbody>
+<tr>
+<td width="53">候補者名</td>
+<td width="326">twitter アカウント</td>
+</tr>
+<tr>
+<td>浅賀　由香</td>
+<td><a href="https://twitter.com/asakayuka">https://twitter.com/asakayuka</a></td>
+</tr>
+<tr>
+<td>真山　勇一</td>
+<td><a href="https://twitter.com/mayamamia">https://twitter.com/mayamamia</a></td>
+</tr>
+<tr>
+<td>片野　英司</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>三浦　信祐</td>
+<td><a href="https://twitter.com/miura_nobuhiro">https://twitter.com/miura_nobuhiro</a></td>
+</tr>
+<tr>
+<td>三原じゅん子</td>
+<td><a href="https://twitter.com/miharajunco">https://twitter.com/miharajunco</a></td>
+</tr>
+<tr>
+<td>壹岐　愛子</td>
+<td><a href="https://twitter.com/ikiaiko">https://twitter.com/ikiaiko</a></td>
+</tr>
+<tr>
+<td>丹羽　　大</td>
+<td><a href="https://twitter.com/niwadainiwa">https://twitter.com/niwadainiwa</a></td>
+</tr>
+<tr>
+<td>金子　洋一</td>
+<td><a href="https://twitter.com/y_kaneko">https://twitter.com/y_kaneko</a></td>
+</tr>
+<tr>
+<td>森　　英夫</td>
+<td><a href="https://twitter.com/mori_hideo_">https://twitter.com/mori_hideo_</a></td>
+</tr>
+<tr>
+<td>清水　太一</td>
+<td>なし</td>
+</tr>
+<tr>
+<td>中西　健治</td>
+<td><a href="https://twitter.com/kenji_nakanishi">https://twitter.com/kenji_nakanishi</a></td>
+</tr>
+<tr>
+<td>佐藤　政則</td>
+<td>なし</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>4. 方法</p>
+<ol>
+<li><a href="http://qiita.com/kenmatsu4/items/02034e5688cc186f224b">スタバのTwitterデータをpythonで大量に取得し、データ分析を試みる その３</a></li>
+<li><a href="http://qiita.com/kenmatsu4/items/52ab6deffdd61e7d8c0f">Twitter Stream APIデータに対して初歩的な感情分析を試みる。</a></li>
+</ol><p>The post <a href="/2016/07/02/%e6%97%a5%e6%9c%ac%e8%aa%9e-%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0f/">(日本語) 参院選チームF</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Visualising the Opinion of Candidates by Using Word Cloud: 2016 an Upper House election:</title>
+		<link>/2016/07/02/teamb/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Sat, 02 Jul 2016 04:13:03 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13172</guid>
+
+					<description><![CDATA[<p>概要 2016年参院選神奈川県選挙区候補者のマニフェストスイッチ　に記載されているアンケート回答からキーフレーズ抽出を行い、その結果をワードクラウドで可視化しました。　候補者の主張が一目でわかります。 金子洋一（かねこよ&#8230;</p>
+<p>The post <a href="/2016/07/02/teamb/">Visualising the Opinion of Candidates by Using Word Cloud: 2016 an Upper House election:</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h2>概要</h2>
+<p>2016年参院選神奈川県選挙区候補者の<a href="http://manifestoswitchsangikanagawa.strikingly.com/" target="_blank">マニフェストスイッチ</a>　に記載されているアンケート回答からキーフレーズ抽出を行い、その結果をワードクラウドで可視化しました。　候補者の主張が一目でわかります。</p>
+<p>金子洋一（かねこよういち）54歳　民進　現<br />
+<a href="https://area34.smp.ne.jp/area/card/14892/jI5Y9G/M?S=qjlar0njo0k">https://area34.smp.ne.jp/area/card/14892/jI5Y9G/M?S=qjlar0njo0k</a></p>
+<p>真山　勇一（まやまゆういち）72歳　民進　前<br />
+<a href="https://area34.smp.ne.jp/area/card/14892/dIq42J/M?S=qjlar0njp0k">https://area34.smp.ne.jp/area/card/14892/dIq42J/M?S=qjlar0njp0k</a></p>
+<h2>金子洋一</h2>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/667340a2663b38cdc49c90118368b074" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p>
+<h2>真山勇一</h2>
+<p><iframe loading="lazy" src="https://s.e2d3.org/9f39574/44136fa/8dbbd6e27eb53ea4e5eedd3b8fa0babc" width="100%" height="800" frameborder="0" scrolling="no"></iframe></p><p>The post <a href="/2016/07/02/teamb/">Visualising the Opinion of Candidates by Using Word Cloud: 2016 an Upper House election:</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>参院選チームC</title>
+		<link>/2016/07/02/%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0c/</link>
+		
+		<dc:creator><![CDATA[YU YAMAMOTO]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2016 15:01:17 +0000</pubDate>
+				<category><![CDATA[Report]]></category>
+		<category><![CDATA[参院選2016 データジャーナリズムハッカソン作品一覧]]></category>
+		<guid isPermaLink="false">/?p=13201</guid>
+
+					<description><![CDATA[<p>2016年　参議院選挙 チームCは、公明党の三浦信祐候補と、日本のこころを大切にする党の清水太一候補についてまとめました。 公明党　三浦信祐候補 　　　　　　　日本のこころを大切にする党　清水太一候補 （１）政策重点分野&#8230;</p>
+<p>The post <a href="/2016/07/02/%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0c/">参院選チームC</a> first appeared on <a href="/">E2D3</a>.</p>]]></description>
+										<content:encoded><![CDATA[<h1>2016年　参議院選挙</h1>
+<p>チームCは、公明党の三浦信祐候補と、日本のこころを大切にする党の清水太一候補についてまとめました。</p>
+<p><img loading="lazy" src="http://www.komei.or.jp/campaign/sanin2016/candidate/img/miura/ph-main.jpg" width="30%" height="200" /> <img loading="lazy" src="https://nippon-kokoro.jp/election/upload/shimizu_taichi.jpg" width="30%" height="200" /><br />
+公明党　三浦信祐候補 　　　　　　　日本のこころを大切にする党　清水太一候補</p>
+<h2>（１）政策重点分野は？</h2>
+<p>「マニフェストスイッチ」のデータをもとに、候補者がどの分野の政策を重視しているのか、レーダーチャートにしました。<br />
+青が平均値、オレンジが三浦候補の値です。清水候補は値がありませんでした。</p>
+<p><iframe loading="lazy" src="https://s.e2d3.org/0099231/7914277/5266c27e33153dda3ebc6f6e0625968f" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p>「社会保障」「産業政策」「社会資本整備」「教育・子育て」「農林漁業」に、均等に配分しています。<br />
+<span style="color: #ff0000;">平均値より上</span>「社会資本整備」「農林漁業」<br />
+<span style="color: #ffcc00;">ほぼ平均値</span>「社会保障」と「教育・子育て」<br />
+<span style="color: #0000ff;">平均値より下</span>「税財政・財政再建」「労働」「エネルギー」「行政・議会改革」「安全・防災・震災復興」<br />
+財政再建を進めるよりも、積極的に予算を使い、社会保障の充実や経済成長を考えている候補という姿勢が読み取れます。</p>
+<h2>（２）安倍政権の政策への評価</h2>
+<p>それぞれの候補について、現政権の政策への評価を４段階にしてみました。<br />
+左側に近いほど、現政権の方針を踏襲する傾向が強いことをあらわしています。<br />
+（*一番下と下から2番目の項目をのぞく）</p>
+<p><img class="alignnone size-medium wp-image-14841" style="width: 700px;" src="/wp-content/uploads/2016/07/image-3-300x257.png" alt="image" /></p>
+<p>青が三浦候補、オレンジ色が清水候補です。</p>
+<p>三浦候補は政権与党（公明党）の候補のため、基本的には<br />
+安倍政権の政策を評価する立場ですが、ひとつだけスタンスが分かれた項目がありました。</p>
+<p>三浦候補は、憲法改正については「日本国憲法は優れた憲法だと評価する」としています。<br />
+「国民主権、基本的人権の尊重、平和主義は堅持し、何を変えるべきか国会の憲法審査会で冷静な論議をすべきだ。」として<br />
+慎重な姿勢と受け取れました。</p>
+<p>一方で、清水候補は<br />
+「日本国憲法には、時代にそくわない条項がある。日本人の手による自主憲法制定を主張している。」と記入。<br />
+憲法改正には全面的に賛成しています。</p>
+<p>公明党の三浦候補は、経済政策に関しては歩調を合わせていても、憲法問題については政権と距離を感じる部分があること、<br />
+一方で日本のこころを大切にする党の清水候補は、野党ですが政権の方針を支持していることなどが見えてきました。</p><p>The post <a href="/2016/07/02/%e5%8f%82%e9%99%a2%e9%81%b8%e3%83%81%e3%83%bc%e3%83%a0c/">参院選チームC</a> first appeared on <a href="/">E2D3</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
