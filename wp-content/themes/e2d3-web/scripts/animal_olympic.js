@@ -48,7 +48,7 @@ var HORSE = {
     top: 290
 }
 
-var IMAGE_DIR = BASE_URL + '/images/animal_icons/';
+var IMAGE_DIR = 'https://xiushu53.github.io/e2d3-web/wp-content/themes/e2d3-web' + '/images/animal_icons/';
 
 var ANIMALS = [YOU, CHILD, BOLT, CHEETAH, TYPHOON, CAR, HORSE];
 var HEIGHT = 746;
