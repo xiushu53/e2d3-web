@@ -628,7 +628,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
         .translation([0, -50])
         .scale(compute_radius / 2);
     d3.json(
-        'https://xiushu53.github.io/e2d3-web/wp-content/themes/e2d3-web/ne_110m_land_t.json',
+        'https://raw.githubusercontent.com/xiushu53/e2d3-web/gh-pages/wp-content/themes/e2d3-web/ne_110m_land_t.json',
         function(error, world) {
             if (error) throw error;
             var geom = topojson.feature(world, world.objects.ne_110m_land);
