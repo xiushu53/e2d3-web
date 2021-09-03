@@ -11381,7 +11381,7 @@ function escapeOpeningSquareBrackets(content) {
  * An isolated URL is a URL that sits in its own line, surrounded only by spacing
  * characters.
  *
- * See https://github.com/WordPress/wordpress-develop/blob/5.1.1/src/wp-includes/class-wp-embed.php#L403
+ * See https://github.com/WordPress/wordpress-develop/blob/5.1.1/src/e2d3-web/wp-includes/class-wp-embed.php#L403
  *
  * @param {string}  content The content of a code block.
  * @return {string} The given content with its ampersands converted into
@@ -14562,8 +14562,8 @@ function WpEmbedPreview({
      *
      * References:
      * window.postMessage: https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage
-     * WordPress core embed-template on load: https://github.com/WordPress/WordPress/blob/HEAD/wp-includes/js/wp-embed-template.js#L143
-     * WordPress core embed-template on resize: https://github.com/WordPress/WordPress/blob/HEAD/wp-includes/js/wp-embed-template.js#L187
+     * WordPress core embed-template on load: https://github.com/WordPress/WordPress/blob/HEAD/e2d3-web/wp-includes/js/wp-embed-template.js#L143
+     * WordPress core embed-template on resize: https://github.com/WordPress/WordPress/blob/HEAD/e2d3-web/wp-includes/js/wp-embed-template.js#L187
      *
      * @param {WPSyntheticEvent} event Message event.
      */
